@@ -6,19 +6,23 @@ def get_teamAge(filename):
     for team in data.Team.unique():
         index = data.Team == team
         teamAge = "{0:.2f}".format(data[index].sort_values('Appearances', ascending = False)[:15]['SeasonAtTeam'].mean())
+        medianAge = "{0:.2f}".format(data[index].sort_values('Appearances', ascending = False)[:15]['SeasonAtTeam'].median())
         # print(team + ": " + str(teamAge))
-        teams.append([team, teamAge])
-    df = pd.DataFrame(teams, columns=['Team', 'Age'])
+        teams.append([team, teamAge, medianAge])
+    df = pd.DataFrame(teams, columns=['Team', 'Age', 'MedianAge'])
     print(df.sort_values('Age', ascending = False))
     return df
 
 
-def get_results(filename, year):
+def get_results(filename):
     data = pd.read_csv(filename, index_col=False)
-    return data[((data.League == 'EPL') & (data.Season == year))]
+    return data
+    # return data[((data.League == 'EPL') & (data.Season == year))]
     
 
 def glossary():
+    # Check out:
+    # https://gist.github.com/bsweger/e5817488d161f37dcbd2
     data = pd.DataFrame()
     data.ix[10] # Selecting specific row
     data['Player'] # Selecting Player column only
@@ -40,14 +44,15 @@ def glossary():
     data.Team.unique() # Returns array of each unique value in 'Team' column
 
 if __name__ == "__main__":
-    year = 2010
-    ageDf = get_teamAge(("epl_data/" + str(year) + ".csv"))
-    resultsDf = get_results("epl_data/epl_result.csv", year)
-    for index, row in resultsDf.iterrows():
-        age = ageDf[(ageDf.Team.str.contains(row['Team']))].iloc[0]['Age']
-        resultsDf.at[index, 'TeamAge'] = age
-    print((resultsDf[:10])['TeamAge'].median())
-    print((resultsDf[10:])['TeamAge'].median())
+    years = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]
+    resultsDf = get_results("epl_data/epl_result.csv")
+    for year in years:
+        ageDf = get_teamAge(("epl_data/" + str(year) + ".csv"))
+        for index, row in resultsDf[(resultsDf['Season'] == year)].iterrows():
+            age = ageDf[(ageDf.Team.str.contains(row['Team']))].iloc[0]['Age']
+            mAge = ageDf[(ageDf.Team.str.contains(row['Team']))].iloc[0]['MedianAge']
+            resultsDf.at[index, 'TeamAge'] = age
+            resultsDf.at[index, 'MedianAge'] = mAge
     print(resultsDf)
-
+    resultsDf.to_csv("epl_data/epl_final.csv", index=False)        
     

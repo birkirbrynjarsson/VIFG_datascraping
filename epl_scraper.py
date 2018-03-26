@@ -8,8 +8,8 @@ from itertools import chain
 import json
 
 root_url = "https://www.premierleague.com"
-scraped_season_ids = {2017 : 54}
-season_ids = {2016 : 42, 2015 : 27, 2014 : 22, 2013 : 21,
+scraped_season_ids = {}
+season_ids = {2017 : 54, 2016 : 42, 2015 : 27, 2014 : 22, 2013 : 21,
               2012 : 20, 2011: 19, 2010 : 18, 2009 : 17, 2008 : 16}
 teams = {}
 players = {}
@@ -79,6 +79,7 @@ def scrape_players():
     # season = next(iter(teams))
     # team = next(iter(teams[season]))
     # scrape_eplteam_browser(team, season)
+    # scrape_eplteam_browser('Blackpool', '2011')
 
 
 
@@ -116,7 +117,7 @@ def scrape_player(url, team, season):
         a = col[3].string.split("(")[0].strip() # Apperances eg. 24(0) where 0 is substitue apperances
         if(int(s) == int(season)):
             apps = int(a)
-        if(int(s) <= int(season) and team == t):
+        if(int(s) <= int(season) and team in t):
             yearsAtTeam += 1
     print(playerName + ", " + team + ", " + str(season) + ", " + str(apps) + ", " + str(yearsAtTeam))
     data.append([playerName, team, season, apps, yearsAtTeam])

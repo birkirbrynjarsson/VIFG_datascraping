@@ -1,0 +1,201 @@
+Season,Pos,Team,League,TeamAge,MedianAge
+2017,1,Chelsea,EPL,4.47,5.00
+2017,2,Tottenham Hotspur,EPL,4.07,3.00
+2017,3,Manchester City,EPL,4.07,4.00
+2017,4,Liverpool,EPL,3.07,2.00
+2017,5,Arsenal,EPL,5.00,5.00
+2017,6,Manchester United,EPL,4.47,4.00
+2017,7,Everton,EPL,4.13,3.00
+2017,8,Southampton,EPL,3.33,3.00
+2017,9,Bournemouth,EPL,1.73,2.00
+2017,10,West Bromwich Albion,EPL,3.67,3.00
+2017,11,West Ham United,EPL,3.20,2.00
+2017,12,Leicester City,EPL,2.27,3.00
+2017,13,Stoke City,EPL,3.87,4.00
+2017,14,Crystal Palace,EPL,2.73,3.00
+2017,15,Swansea City,EPL,3.20,3.00
+2017,16,Burnley,EPL,1.53,2.00
+2017,17,Watford,EPL,1.20,1.00
+2017,18,Hull City,EPL,1.80,2.00
+2017,19,Middlesbrough,EPL,1.40,1.00
+2017,20,Sunderland,EPL,3.53,3.00
+2016,1,Leicester City,EPL,1.67,2.00
+2016,2,Arsenal,EPL,5.33,5.00
+2016,3,Tottenham Hotspur,EPL,4.33,4.00
+2016,4,Manchester City,EPL,4.73,5.00
+2016,5,Manchester United,EPL,4.53,5.00
+2016,6,Southampton,EPL,2.60,2.00
+2016,7,West Ham United,EPL,3.40,2.00
+2016,8,Liverpool,EPL,3.80,3.00
+2016,9,Stoke City,EPL,3.80,3.00
+2016,10,Chelsea,EPL,5.40,4.00
+2016,11,Everton,EPL,4.67,4.00
+2016,12,Swansea City,EPL,3.13,2.00
+2016,13,Watford,EPL,0.87,1.00
+2016,14,West Bromwich Albion,EPL,4.20,4.00
+2016,15,Crystal Palace,EPL,2.47,3.00
+2016,16,Bournemouth,EPL,1.00,1.00
+2016,17,Sunderland,EPL,2.80,2.00
+2016,18,Newcastle United,EPL,4.13,4.00
+2016,19,Norwich City,EPL,2.53,3.00
+2016,20,Aston Villa,EPL,3.47,2.00
+2015,1,Chelsea,EPL,5.33,4.00
+2015,2,Manchester City,EPL,3.93,4.00
+2015,3,Arsenal,EPL,4.00,3.00
+2015,4,Manchester United,EPL,3.60,3.00
+2015,5,Tottenham Hotspur,EPL,3.40,2.00
+2015,6,Liverpool,EPL,4.13,3.00
+2015,7,Southampton,EPL,1.87,2.00
+2015,8,Swansea City,EPL,2.33,2.00
+2015,9,Stoke City,EPL,3.53,3.00
+2015,10,Crystal Palace,EPL,1.80,2.00
+2015,11,Everton,EPL,4.60,3.00
+2015,12,West Ham United,EPL,3.33,2.00
+2015,13,West Bromwich Albion,EPL,3.40,3.00
+2015,14,Leicester City,EPL,1.00,1.00
+2015,15,Newcastle United,EPL,3.27,3.00
+2015,16,Sunderland,EPL,2.47,2.00
+2015,17,Aston Villa,EPL,4.00,3.00
+2015,18,Hull City,EPL,2.00,2.00
+2015,19,Burnley,EPL,1.07,1.00
+2015,20,Queens Park Rangers,EPL,1.40,1.00
+2014,1,Manchester City,EPL,3.47,4.00
+2014,2,Liverpool,EPL,4.67,3.00
+2014,3,Chelsea,EPL,5.80,4.00
+2014,4,Arsenal,EPL,4.33,3.00
+2014,5,Everton,EPL,4.40,4.00
+2014,6,Tottenham Hotspur,EPL,3.73,2.00
+2014,7,Manchester United,EPL,5.47,5.00
+2014,8,Southampton,EPL,1.87,2.00
+2014,9,Stoke City,EPL,3.40,3.00
+2014,10,Newcastle United,EPL,3.73,3.00
+2014,11,Crystal Palace,EPL,1.07,1.00
+2014,12,Swansea City,EPL,2.13,2.00
+2014,13,West Ham United,EPL,3.80,2.00
+2014,14,Sunderland,EPL,2.67,3.00
+2014,15,Aston Villa,EPL,4.07,2.00
+2014,16,Hull City,EPL,1.07,1.00
+2014,17,West Bromwich Albion,EPL,3.27,3.00
+2014,18,Norwich City,EPL,1.93,2.00
+2014,19,Fulham,EPL,3.00,2.00
+2014,20,Cardiff City,EPL,1.00,1.00
+2013,1,Manchester United,EPL,6.60,6.00
+2013,2,Manchester City,EPL,3.27,3.00
+2013,3,Chelsea,EPL,4.73,3.00
+2013,4,Arsenal,EPL,3.67,3.00
+2013,5,Tottenham Hotspur,EPL,4.73,4.00
+2013,6,Everton,EPL,5.07,5.00
+2013,7,Liverpool,EPL,5.60,3.00
+2013,8,West Bromwich Albion,EPL,2.73,3.00
+2013,9,Swansea City,EPL,1.60,2.00
+2013,10,West Ham United,EPL,2.73,1.00
+2013,11,Norwich City,EPL,1.67,2.00
+2013,12,Fulham,EPL,2.93,3.00
+2013,13,Stoke City,EPL,3.33,4.00
+2013,14,Southampton,EPL,1.00,1.00
+2013,15,Aston Villa,EPL,3.20,2.00
+2013,16,Newcastle United,EPL,3.93,3.00
+2013,17,Sunderland,EPL,2.53,2.00
+2013,18,Wigan Athletic,EPL,3.40,3.00
+2013,19,Reading,EPL,1.60,1.00
+2013,20,Queens Park Rangers,EPL,1.60,2.00
+2012,1,Manchester City,EPL,3.07,3.00
+2012,2,Manchester United,EPL,5.60,5.00
+2012,3,Arsenal,EPL,4.40,4.00
+2012,4,Tottenham Hotspur,EPL,4.40,4.00
+2012,5,Newcastle United,EPL,2.73,2.00
+2012,6,Chelsea,EPL,4.80,4.00
+2012,7,Everton,EPL,5.00,4.00
+2012,8,Liverpool,EPL,4.93,3.00
+2012,9,Fulham,EPL,3.40,4.00
+2012,10,West Bromwich Albion,EPL,1.93,2.00
+2012,11,Swansea City,EPL,0.93,1.00
+2012,12,Norwich City,EPL,1.00,1.00
+2012,13,Sunderland,EPL,2.13,1.00
+2012,14,Stoke City,EPL,2.87,3.00
+2012,15,Wigan Athletic,EPL,2.87,3.00
+2012,16,Aston Villa,EPL,3.60,4.00
+2012,17,Queens Park Rangers,EPL,0.93,1.00
+2012,18,Bolton Wanderers,EPL,3.93,3.00
+2012,19,Blackburn Rovers,EPL,3.73,3.00
+2012,20,Wolverhampton Wanderers,EPL,2.73,3.00
+2011,1,Manchester United,EPL,7.67,6.00
+2011,2,Chelsea,EPL,5.53,5.00
+2011,3,Manchester City,EPL,2.33,2.00
+2011,4,Arsenal,EPL,4.53,5.00
+2011,5,Tottenham Hotspur,EPL,3.73,3.00
+2011,6,Liverpool,EPL,4.73,4.00
+2011,7,Everton,EPL,4.20,4.00
+2011,8,Fulham,EPL,3.20,3.00
+2011,9,Aston Villa,EPL,3.27,3.00
+2011,10,Sunderland,EPL,2.13,2.00
+2011,11,West Bromwich Albion,EPL,1.33,1.00
+2011,12,Newcastle United,EPL,3.67,2.00
+2011,13,Stoke City,EPL,2.27,2.00
+2011,14,Bolton Wanderers,EPL,3.47,3.00
+2011,15,Blackburn Rovers,EPL,4.33,3.00
+2011,16,Wigan Athletic,EPL,2.20,2.00
+2011,17,Wolverhampton Wanderers,EPL,2.00,2.00
+2011,18,Birmingham City,EPL,1.87,2.00
+2011,19,Blackpool,EPL,0.93,1.00
+2011,20,West Ham United,EPL,3.47,4.00
+2010,1,Chelsea,EPL,5.00,4.00
+2010,2,Manchester United,EPL,7.60,5.00
+2010,3,Arsenal,EPL,4.27,4.00
+2010,4,Tottenham Hotspur,EPL,4.47,4.00
+2010,5,Manchester City,EPL,2.40,2.00
+2010,6,Aston Villa,EPL,2.53,2.00
+2010,7,Liverpool,EPL,4.60,3.00
+2010,8,Everton,EPL,4.33,3.00
+2010,9,Birmingham City,EPL,1.33,1.00
+2010,10,Blackburn Rovers,EPL,3.40,2.00
+2010,11,Stoke City,EPL,1.80,2.00
+2010,12,Fulham,EPL,2.47,3.00
+2010,13,Sunderland,EPL,2.27,2.00
+2010,14,Bolton Wanderers,EPL,3.33,3.00
+2010,15,Wolverhampton Wanderers,EPL,1.07,1.00
+2010,16,Wigan Athletic,EPL,2.27,2.00
+2010,17,West Ham United,EPL,2.73,3.00
+2010,18,Burnley,EPL,1.00,1.00
+2010,19,Hull City,EPL,1.73,2.00
+2010,20,Portsmouth,EPL,2.00,2.00
+2009,1,Manchester United,EPL,6.47,4.00
+2009,2,Liverpool,EPL,4.00,3.00
+2009,3,Chelsea,EPL,3.87,3.00
+2009,4,Arsenal,EPL,4.20,4.00
+2009,5,Everton,EPL,3.87,3.00
+2009,6,Aston Villa,EPL,2.93,2.00
+2009,7,Fulham,EPL,1.87,2.00
+2009,8,Tottenham Hotspur,EPL,3.40,3.00
+2009,9,West Ham United,EPL,2.60,3.00
+2009,10,Manchester City,EPL,2.67,2.00
+2009,11,Wigan Athletic,EPL,1.87,2.00
+2009,12,Stoke City,EPL,1.00,1.00
+2009,13,Bolton Wanderers,EPL,3.20,2.00
+2009,14,Portsmouth,EPL,2.40,2.00
+2009,15,Blackburn Rovers,EPL,3.67,3.00
+2009,16,Sunderland,EPL,2.33,2.00
+2009,17,Hull City,EPL,1.00,1.00
+2009,18,Newcastle United,EPL,3.80,3.00
+2009,19,Middlesbrough,EPL,4.13,4.00
+2009,20,West Bromwich Albion,EPL,1.20,1.00
+2008,1,Manchester United,EPL,5.53,3.00
+2008,2,Chelsea,EPL,3.87,4.00
+2008,3,Arsenal,EPL,3.80,4.00
+2008,4,Liverpool,EPL,4.33,3.00
+2008,5,Everton,EPL,3.33,3.00
+2008,6,Aston Villa,EPL,3.27,2.00
+2008,7,Blackburn Rovers,EPL,3.80,4.00
+2008,8,Portsmouth,EPL,2.13,2.00
+2008,9,Manchester City,EPL,2.07,2.00
+2008,10,West Ham United,EPL,2.33,2.00
+2008,11,Tottenham Hotspur,EPL,2.47,3.00
+2008,12,Newcastle United,EPL,3.73,2.00
+2008,13,Middlesbrough,EPL,3.53,3.00
+2008,14,Wigan Athletic,EPL,1.53,1.00
+2008,15,Sunderland,EPL,1.33,1.00
+2008,16,Bolton Wanderers,EPL,4.20,4.00
+2008,17,Fulham,EPL,1.93,1.00
+2008,18,Reading,EPL,1.93,2.00
+2008,19,Birmingham City,EPL,1.60,1.00
+2008,20,Derby County,EPL,1.00,1.00
