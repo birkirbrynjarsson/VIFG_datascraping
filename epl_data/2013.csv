@@ -40,7 +40,7 @@ Thomas Eisfeld,Arsenal,2013,0,2
 Craig Eastmond,Arsenal,2013,0,6
 Serge Gnabry,Arsenal,2013,1,1
 Conor Henderson,Arsenal,2013,0,5
-Wellington,Arsenal,2013,0,3
+Wellington Silva,Arsenal,2013,0,3
 Joel Campbell,Arsenal,2013,0,2
 Philip Roberts,Arsenal,2013,0,1
 Lukas Podolski,Arsenal,2013,33,1
@@ -55,7 +55,7 @@ Zak Ansah,Arsenal,2013,0,1
 Sanchez Watt,Arsenal,2013,0,6
 Johan Djourou,Arsenal,2013,0,9
 Henri Lansbury,Arsenal,2013,0,7
-Alexandre Song,Arsenal,2013,0,7
+Alexandre Song,Arsenal,2013,0,8
 Samuel Galindo,Arsenal,2013,0,4
 Brad Guzan,Aston Villa,2013,36,5
 Andy Marshall,Aston Villa,2013,0,4
@@ -80,7 +80,7 @@ Jean Makoun,Aston Villa,2013,0,3
 Chris Herd,Aston Villa,2013,9,6
 Yacouba Sylla,Aston Villa,2013,11,1
 Gary Gardner,Aston Villa,2013,2,4
-Simon Dawkins,Aston Villa,2013,0,0
+Simon Dawkins,Aston Villa,2013,0,1
 Samir Carruthers,Aston Villa,2013,0,2
 Daniel Johnson,Aston Villa,2013,0,3
 Stephen Ireland,Aston Villa,2013,13,3
@@ -153,7 +153,7 @@ Thibaut Courtois,Chelsea,2013,0,2
 Lewis Baker,Chelsea,2013,0,1
 Ruben Loftus-Cheek,Chelsea,2013,0,1
 Ján Mucha,Everton,2013,2,3
-Tim Howard,Everton,2013,36,7
+Tim Howard,Everton,2013,36,8
 Mason Springthorpe,Everton,2013,0,3
 Tony Hibbert,Everton,2013,6,13
 Leighton Baines,Everton,2013,38,6
@@ -173,7 +173,7 @@ Thomas Hitzlsperger,Everton,2013,7,1
 Phil Neville,Everton,2013,18,8
 Ross Barkley,Everton,2013,7,3
 Leon Osman,Everton,2013,36,13
-Steven Pienaar,Everton,2013,35,4
+Steven Pienaar,Everton,2013,35,6
 Marouane Fellaini,Everton,2013,31,5
 Francisco Júnior,Everton,2013,0,2
 Matthew Kennedy,Everton,2013,0,1
@@ -196,25 +196,25 @@ Brede Hangeland,Fulham,2013,35,6
 Chris Baird,Fulham,2013,19,6
 Matthew Briggs,Fulham,2013,5,7
 Aaron Hughes,Fulham,2013,24,6
-Stanislav Manolev,Fulham,2013,5,0
-Sascha Riether,Fulham,2013,35,0
+Stanislav Manolev,Fulham,2013,5,1
+Sascha Riether,Fulham,2013,35,1
 Alex Smith,Fulham,2013,1,4
 Jack Grimmer,Fulham,2013,0,2
 Ryan Williams,Fulham,2013,0,2
 Steve Sidwell,Fulham,2013,28,3
 Pajtim Kasami,Fulham,2013,2,2
 Alexander Kacaniklic,Fulham,2013,20,3
-Emmanuel Frimpong,Fulham,2013,0,0
+Emmanuel Frimpong,Fulham,2013,0,1
 Giorgos Karagounis,Fulham,2013,25,1
 Kieran Richardson,Fulham,2013,1,1
 Damien Duff,Fulham,2013,31,4
 Mahamadou Diarra,Fulham,2013,8,2
 Kerim Frei,Fulham,2013,7,2
 Ashkan Dejagah,Fulham,2013,21,1
-Urby Emanuelson,Fulham,2013,13,0
+Urby Emanuelson,Fulham,2013,13,1
 Simon Davies,Fulham,2013,0,7
 Chris David,Fulham,2013,0,1
-Eyong Enoh,Fulham,2013,9,0
+Eyong Enoh,Fulham,2013,9,1
 Charles Banya,Fulham,2013,0,1
 Richard Peniket,Fulham,2013,0,5
 Dimitar Berbatov,Fulham,2013,0,1
@@ -235,7 +235,7 @@ Josh Pritchard,Fulham,2013,0,1
 Tom Donegan,Fulham,2013,0,1
 Brad Jones,Liverpool,2013,7,3
 José Reina,Liverpool,2013,31,8
-Péter Gulácsi,Liverpool,2013,0,5
+Péter Gulácsi,Liverpool,2013,0,6
 Danny Ward,Liverpool,2013,0,2
 Glen Johnson,Liverpool,2013,36,4
 José Enrique,Liverpool,2013,29,2
@@ -267,14 +267,14 @@ João Teixeira,Liverpool,2013,0,2
 Villyan Bijev,Liverpool,2013,0,2
 Luis Suárez,Liverpool,2013,33,3
 Andy Carroll,Liverpool,2013,2,3
-Dani Pacheco,Liverpool,2013,0,6
+Daniel Pacheco,Liverpool,2013,0,6
 Daniel Sturridge,Liverpool,2013,7,1
 Fabio Borini,Liverpool,2013,13,1
 Samed Yesil,Liverpool,2013,0,1
 Jerome Sinclair,Liverpool,2013,0,1
 Adam Morgan,Liverpool,2013,0,1
 Doni,Liverpool,2013,0,2
-Nuri Sahin,Liverpool,2013,7,1
+Nuri Sahin,Liverpool,2013,7,2
 David Amoo,Liverpool,2013,0,6
 Joe Cole,Liverpool,2013,6,3
 Nathan Eccleston,Liverpool,2013,0,5
@@ -284,7 +284,7 @@ Brad Smith,Liverpool,2013,0,1
 Krisztian Adorjan,Liverpool,2013,0,1
 Joe Hart,Manchester City,2013,38,7
 Richard Wright,Manchester City,2013,0,1
-Costel Pantilimon,Manchester City,2013,0,2
+Costel Pantilimon,Manchester City,2013,0,3
 Eirik Johansen,Manchester City,2013,0,2
 Micah Richards,Manchester City,2013,7,8
 Maicon,Manchester City,2013,9,1
@@ -300,7 +300,7 @@ Dedryck Boyata,Manchester City,2013,0,4
 Karim Rekik,Manchester City,2013,1,2
 Ryan McGivern,Manchester City,2013,0,6
 Reece Wabara,Manchester City,2013,0,3
-Jeremy Helan,Manchester City,2013,0,1
+Jeremy Helan,Manchester City,2013,0,2
 James Milner,Manchester City,2013,26,3
 Samir Nasri,Manchester City,2013,28,2
 Scott Sinclair,Manchester City,2013,1,1
@@ -407,7 +407,7 @@ Remie Streete,Newcastle United,2013,0,1
 Yohan Cabaye,Newcastle United,2013,26,2
 Moussa Sissoko,Newcastle United,2013,12,1
 Vurnon Anita,Newcastle United,2013,25,1
-Hatem Ben Arfa,Newcastle United,2013,19,3
+Hatem Ben Arfa,Newcastle United,2013,19,4
 Dan Gosling,Newcastle United,2013,3,3
 Romain Amalfitano,Newcastle United,2013,0,1
 Jonás Gutiérrez,Newcastle United,2013,34,4
@@ -440,7 +440,7 @@ Russell Martin,Norwich City,2013,31,2
 Steven Whittaker,Norwich City,2013,13,1
 Sebastien Bassong,Norwich City,2013,0,1
 Michael Turner,Norwich City,2013,26,2
-Javier Garrido,Norwich City,2013,34,0
+Javier Garrido,Norwich City,2013,34,1
 Leon Barnett,Norwich City,2013,8,2
 Elliott Ward,Norwich City,2013,0,2
 Marc Tierney,Norwich City,2013,1,2
@@ -465,8 +465,8 @@ Simeon Jackson,Norwich City,2013,13,2
 Luciano Becchio,Norwich City,2013,8,1
 Chris Martin,Norwich City,2013,1,2
 James Vaughan,Norwich City,2013,0,2
-Kei Kamara,Norwich City,2013,11,1
-Harry Kane,Norwich City,2013,1,0
+Kei Kamara,Norwich City,2013,11,2
+Harry Kane,Norwich City,2013,1,1
 Steve Morison,Norwich City,2013,19,2
 Simon Lappin,Norwich City,2013,0,2
 Aaron Lennox,Queens Park Rangers,2013,0,1
@@ -482,7 +482,7 @@ Clint Hill,Queens Park Rangers,2013,31,2
 Yun Suk-Young,Queens Park Rangers,2013,0,1
 Nedum Onuoha,Queens Park Rangers,2013,23,2
 José Bosingwa,Queens Park Rangers,2013,23,1
-Fabio,Queens Park Rangers,2013,0,0
+Fabio,Queens Park Rangers,2013,0,1
 Tal Ben Haim,Queens Park Rangers,2013,3,1
 Luke Young,Queens Park Rangers,2013,0,2
 Michael Harriman,Queens Park Rangers,2013,1,2
@@ -503,8 +503,8 @@ Jermaine Jenas,Queens Park Rangers,2013,1,1
 Joey Barton,Queens Park Rangers,2013,0,2
 Hogan Ephraim,Queens Park Rangers,2013,0,2
 David Junior Hoilett,Queens Park Rangers,2013,26,1
-Samba Diakité,Queens Park Rangers,2013,14,1
-Andros Townsend,Queens Park Rangers,2013,5,0
+Samba Diakité,Queens Park Rangers,2013,14,2
+Andros Townsend,Queens Park Rangers,2013,5,1
 Frankie Sutherland,Queens Park Rangers,2013,0,1
 Alejandro Faurlin,Queens Park Rangers,2013,11,2
 Petros Skapetis,Queens Park Rangers,2013,0,2
@@ -631,7 +631,7 @@ Matt Upson,Stoke City,2013,1,2
 Andy Wilkinson,Stoke City,2013,24,5
 Ryan Shotton,Stoke City,2013,23,5
 Glenn Whelan,Stoke City,2013,32,5
-Jermaine Pennant,Stoke City,2013,1,3
+Jermaine Pennant,Stoke City,2013,1,4
 Wilson Palacios,Stoke City,2013,4,2
 Brek Shea,Stoke City,2013,2,1
 Maurice Edu,Stoke City,2013,1,1
@@ -660,7 +660,7 @@ Jordan Pickford,Sunderland,2013,0,2
 Keiren Westwood,Sunderland,2013,0,2
 Simon Mignolet,Sunderland,2013,38,3
 Phil Bardsley,Sunderland,2013,18,6
-Danny Rose,Sunderland,2013,0,0
+Danny Rose,Sunderland,2013,0,1
 Wes Brown,Sunderland,2013,0,2
 Matthew Kilgallon,Sunderland,2013,6,4
 John O'Shea,Sunderland,2013,34,2
@@ -678,7 +678,7 @@ Adam Johnson,Sunderland,2013,0,1
 Jack Colback,Sunderland,2013,35,5
 David Vaughan,Sunderland,2013,24,2
 James McClean,Sunderland,2013,36,2
-Ahmed El Mohamady,Sunderland,2013,2,2
+Ahmed El Mohamady,Sunderland,2013,2,3
 Stéphane Sessegnon,Sunderland,2013,35,3
 Jordan Laidler,Sunderland,2013,0,1
 Lee Cattermole,Sunderland,2013,10,4
@@ -708,7 +708,7 @@ Chico Flores,Swansea City,2013,26,1
 Alan Tate,Swansea City,2013,3,2
 Ashley Williams,Swansea City,2013,37,2
 Garry Monk,Swansea City,2013,11,2
-Dwight Tiendalli,Swansea City,2013,14,1
+Dwight Tiendalli,Swansea City,2013,0,1
 Angel Rangel,Swansea City,2013,33,2
 Darnel Situ,Swansea City,2013,0,2
 Kyle Bartley,Swansea City,2013,2,2
@@ -719,10 +719,10 @@ Scott Tancock,Swansea City,2013,0,1
 Leon Britton,Swansea City,2013,33,2
 Pablo Hernández,Swansea City,2013,30,1
 Nathan Dyer,Swansea City,2013,37,2
-Roland Lamah,Swansea City,2013,5,0
+Roland Lamah,Swansea City,2013,5,1
 Wayne Routledge,Swansea City,2013,36,2
 Ki Sung-yueng,Swansea City,2013,29,1
-Jonathan de Guzmán,Swansea City,2013,0,0
+Jonathan de Guzmán,Swansea City,2013,0,1
 Kemy Agustien,Swansea City,2013,18,2
 Mark Gower,Swansea City,2013,1,2
 Jazz Richards,Swansea City,2013,0,2
@@ -731,7 +731,7 @@ Henry Jones,Swansea City,2013,0,1
 Gwion Edwards,Swansea City,2013,0,2
 Kurtis March,Swansea City,2013,0,2
 Michu,Swansea City,2013,35,1
-Etey Shechter,Swansea City,2013,18,0
+Etey Shechter,Swansea City,2013,18,1
 Leroy Lita,Swansea City,2013,0,2
 Luke Moore,Swansea City,2013,17,2
 James Loveridge,Swansea City,2013,0,1
@@ -769,7 +769,7 @@ David Bentley,Tottenham Hotspur,2013,0,5
 Andros Townsend,Tottenham Hotspur,2013,5,5
 Mousa Dembélé,Tottenham Hotspur,2013,2,1
 Gylfi Sigurdsson,Tottenham Hotspur,2013,33,1
-Iago Falque,Tottenham Hotspur,2013,1,2
+Iago Falque,Tottenham Hotspur,2013,1,3
 Tom Carroll,Tottenham Hotspur,2013,7,3
 Jake Livermore,Tottenham Hotspur,2013,11,7
 Sandro,Tottenham Hotspur,2013,22,3
@@ -781,7 +781,7 @@ Jake Nicholson,Tottenham Hotspur,2013,0,3
 Massimo Luongo,Tottenham Hotspur,2013,0,2
 Dean Parrett,Tottenham Hotspur,2013,0,5
 Clint Dempsey,Tottenham Hotspur,2013,0,1
-Emmanuel Adebayor,Tottenham Hotspur,2013,0,1
+Emmanuel Adebayor,Tottenham Hotspur,2013,0,2
 Jermain Defoe,Tottenham Hotspur,2013,34,10
 Harry Kane,Tottenham Hotspur,2013,1,4
 Shaquile Coulthirst,Tottenham Hotspur,2013,0,1
@@ -797,12 +797,12 @@ Luka Modric,Tottenham Hotspur,2013,0,5
 Sebastien Bassong,Tottenham Hotspur,2013,0,4
 Souleymane Coulibaly,Tottenham Hotspur,2013,0,2
 Alex Pritchard,Tottenham Hotspur,2013,0,2
-Ben Foster,West Bromwich Albion,2013,30,1
+Ben Foster,West Bromwich Albion,2013,30,2
 Boaz Myhill,West Bromwich Albion,2013,8,3
 Luke Daniels,West Bromwich Albion,2013,0,6
 Steven Reid,West Bromwich Albion,2013,11,3
 Jonas Olsson,West Bromwich Albion,2013,36,4
-Goran Popov,West Bromwich Albion,2013,12,0
+Goran Popov,West Bromwich Albion,2013,0,1
 Liam Ridgewell,West Bromwich Albion,2013,30,2
 Gonzalo Jara,West Bromwich Albion,2013,1,3
 Gareth McAuley,West Bromwich Albion,2013,36,2
@@ -820,7 +820,7 @@ Jerome Thomas,West Bromwich Albion,2013,10,3
 George Thorne,West Bromwich Albion,2013,5,3
 Scott Allan,West Bromwich Albion,2013,0,2
 Graham Dorrans,West Bromwich Albion,2013,26,4
-Youssouf Mulumbu,West Bromwich Albion,2013,28,3
+Youssouf Mulumbu,West Bromwich Albion,2013,28,4
 Zoltán Gera,West Bromwich Albion,2013,16,5
 Kemar Roofe,West Bromwich Albion,2013,0,3
 Romaine Sawyers,West Bromwich Albion,2013,0,4
@@ -828,16 +828,16 @@ Kayleden Brown,West Bromwich Albion,2013,0,3
 Isaiah Brown,West Bromwich Albion,2013,1,1
 Markus Rosenberg,West Bromwich Albion,2013,24,1
 Shane Long,West Bromwich Albion,2013,34,2
-Romelu Lukaku,West Bromwich Albion,2013,0,0
+Romelu Lukaku,West Bromwich Albion,2013,0,1
 Peter Odemwingie,West Bromwich Albion,2013,25,3
-Marc-Antoine Fortuné,West Bromwich Albion,2013,21,3
+Marc-Antoine Fortuné,West Bromwich Albion,2013,21,4
 Adil Nabi,West Bromwich Albion,2013,0,1
 Saido Berahino,West Bromwich Albion,2013,0,3
-Yassine El Ghanassy,West Bromwich Albion,2013,0,1
+Yassine El Ghanassy,West Bromwich Albion,2013,0,2
 Sam Mantom,West Bromwich Albion,2013,0,3
 Chris Wood,West Bromwich Albion,2013,0,4
 Bradley Garmston,West Bromwich Albion,2013,0,1
-Vit Nemrava,West Ham United,2013,0,0
+Vit Nemrava,West Ham United,2013,0,1
 Jussi Jääskeläinen,West Ham United,2013,38,1
 Stephen Henderson,West Ham United,2013,0,1
 Raphael Spiegel,West Ham United,2013,0,1
@@ -846,7 +846,7 @@ Winston Reid,West Ham United,2013,36,2
 George McCartney,West Ham United,2013,12,4
 James Tomkins,West Ham United,2013,26,5
 Joey O'Brien,West Ham United,2013,33,1
-Emanuel Pogatetz,West Ham United,2013,6,0
+Emanuel Pogatetz,West Ham United,2013,6,1
 James Collins,West Ham United,2013,29,6
 Guy Demel,West Ham United,2013,31,1
 Dan Potts,West Ham United,2013,2,1
@@ -867,25 +867,25 @@ George Moncur,West Ham United,2013,0,1
 Sebastian Lletget,West Ham United,2013,0,1
 Blair Turgott,West Ham United,2013,0,1
 Matthias Fanimo,West Ham United,2013,0,1
-Andy Carroll,West Ham United,2013,2,0
+Andy Carroll,West Ham United,2013,2,1
 Carlton Cole,West Ham United,2013,27,6
 Modibo Maiga,West Ham United,2013,17,1
 Ricardo Vaz Te,West Ham United,2013,24,1
-Marouane Chamakh,West Ham United,2013,0,0
-Wellington Paulista,West Ham United,2013,0,0
+Marouane Chamakh,West Ham United,2013,0,1
+Wellington Paulista,West Ham United,2013,0,1
 Elliot Lee,West Ham United,2013,0,1
 Dylan Tombides,West Ham United,2013,0,2
 Sean Maguire,West Ham United,2013,0,1
 Paul McCallum,West Ham United,2013,0,2
 Robert Hall,West Ham United,2013,1,1
-Yossi Benayoun,West Ham United,2013,0,3
+Yossi Benayoun,West Ham United,2013,0,4
 Dominic Vose,West Ham United,2013,0,2
 Nicky Maynard,West Ham United,2013,0,1
 Sam Baldock,West Ham United,2013,0,1
-Joel Robles,Wigan Athletic,2013,9,0
+Joel Robles,Wigan Athletic,2013,9,1
 Mike Pollitt,Wigan Athletic,2013,0,8
 Lee Nicholls,Wigan Athletic,2013,0,4
-Ali Al Habsi,Wigan Athletic,2013,29,2
+Ali Al Habsi,Wigan Athletic,2013,29,3
 Antolin Alcaraz,Wigan Athletic,2013,10,3
 Gary Caldwell,Wigan Athletic,2013,25,3
 Emmerson Boyce,Wigan Athletic,2013,36,7
@@ -895,8 +895,8 @@ Piscu,Wigan Athletic,2013,5,3
 Roman Golobart,Wigan Athletic,2013,3,4
 Jordan Mustoe,Wigan Athletic,2013,0,4
 Rob Kiernan,Wigan Athletic,2013,0,2
-Maynor Figueroa,Wigan Athletic,2013,33,5
-Paul Scharner,Wigan Athletic,2013,14,5
+Maynor Figueroa,Wigan Athletic,2013,33,7
+Paul Scharner,Wigan Athletic,2013,14,6
 Adam Buxton,Wigan Athletic,2013,0,3
 Eduard Campabadal,Wigan Athletic,2013,1,1
 Callum Morris,Wigan Athletic,2013,0,3
@@ -912,11 +912,11 @@ Fraser Fyvie,Wigan Athletic,2013,1,1
 Jean Beausejour,Wigan Athletic,2013,34,2
 Daniel Redmond,Wigan Athletic,2013,0,3
 Nouha Dicko,Wigan Athletic,2013,0,2
-Ryo Miyaichi,Wigan Athletic,2013,0,0
+Ryo Miyaichi,Wigan Athletic,2013,0,1
 Ryan Watson,Wigan Athletic,2013,0,2
 Arouna Koné,Wigan Athletic,2013,34,1
 Franco Di Santo,Wigan Athletic,2013,35,3
-Ángelo Henríquez,Wigan Athletic,2013,0,0
+Ángelo Henríquez,Wigan Athletic,2013,0,1
 Callum McManaman,Wigan Athletic,2013,20,5
 Mauro Boselli,Wigan Athletic,2013,7,3
 Filip Orsula,Wigan Athletic,2013,0,1

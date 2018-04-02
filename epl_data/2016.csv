@@ -22,7 +22,7 @@ Santiago Cazorla,Arsenal,2016,15,4
 Mathieu Flamini,Arsenal,2016,0,8
 Serge Gnabry,Arsenal,2016,0,4
 Francis Coquelin,Arsenal,2016,26,8
-Mohamed El Neny,Arsenal,2016,11,1
+Mohamed Elneny,Arsenal,2016,11,1
 Ismael Bennacer,Arsenal,2016,0,1
 Krystian Bielik,Arsenal,2016,0,1
 Alex Iwobi,Arsenal,2016,13,3
@@ -81,7 +81,7 @@ Rudy Gestede,Aston Villa,2016,32,1
 Jerell Sellars,Aston Villa,2016,0,1
 Philippe Senderos,Aston Villa,2016,0,2
 Joe Cole,Aston Villa,2016,0,2
-Tiago Ilori,Aston Villa,2016,0,0
+Tiago Ilori,Aston Villa,2016,0,1
 Janoi Donacien,Aston Villa,2016,0,3
 Jed Steer,Aston Villa,2016,0,4
 Nathan Baker,Aston Villa,2016,0,10
@@ -111,7 +111,7 @@ Eunan O'Kane,AFC Bournemouth,2016,16,1
 Josh Wakefield,AFC Bournemouth,2016,0,1
 Tokelo Rantie,AFC Bournemouth,2016,3,1
 Max Gradel,AFC Bournemouth,2016,0,0
-Juan Iturbe,AFC Bournemouth,2016,2,0
+Juan Iturbe,AFC Bournemouth,2016,2,1
 Callum Wilson,AFC Bournemouth,2016,13,1
 Joshua King,AFC Bournemouth,2016,31,1
 Benik Afobe,AFC Bournemouth,2016,15,1
@@ -126,8 +126,8 @@ Ryan Allsop,AFC Bournemouth,2016,1,1
 Baily Cargill,AFC Bournemouth,2016,0,1
 Elliott Ward,AFC Bournemouth,2016,0,1
 Yann Kermorgant,AFC Bournemouth,2016,7,1
-Christian Atsu,AFC Bournemouth,2016,0,0
-Joe Bennett,AFC Bournemouth,2016,0,0
+Christian Atsu,AFC Bournemouth,2016,0,1
+Joe Bennett,AFC Bournemouth,2016,0,1
 Stéphane Zubar,AFC Bournemouth,2016,0,1
 Callum Buckley,AFC Bournemouth,2016,0,1
 Josh Carmichael,AFC Bournemouth,2016,0,1
@@ -160,8 +160,8 @@ Willian,Chelsea,2016,35,3
 Ruben Loftus-Cheek,Chelsea,2016,13,4
 Kasey Palmer,Chelsea,2016,0,1
 Charlie Colkett,Chelsea,2016,0,2
-Falcao,Chelsea,2016,10,0
-Alexandre Pato,Chelsea,2016,2,0
+Falcao,Chelsea,2016,10,1
+Alexandre Pato,Chelsea,2016,2,1
 Kenedy,Chelsea,2016,14,1
 Pedro,Chelsea,2016,29,1
 Loïc Remy,Chelsea,2016,0,1
@@ -211,7 +211,7 @@ Bakary Sako,Crystal Palace,2016,20,1
 Joe Ledley,Crystal Palace,2016,19,3
 Luke Dreher,Crystal Palace,2016,0,1
 Jake Gray,Crystal Palace,2016,0,2
-Jason Puncheon,Crystal Palace,2016,31,3
+Jason Puncheon,Crystal Palace,2016,31,4
 Sullay Kaikai,Crystal Palace,2016,0,4
 Fraizer Campbell,Crystal Palace,2016,0,1
 Dwight Gayle,Crystal Palace,2016,16,3
@@ -224,9 +224,9 @@ Jack Hunt,Crystal Palace,2016,0,3
 Connor Dymond,Crystal Palace,2016,0,1
 Glenn Murray,Crystal Palace,2016,2,3
 Barry Bannan,Crystal Palace,2016,0,3
-Patrick Bamford,Crystal Palace,2016,0,0
+Patrick Bamford,Crystal Palace,2016,0,1
 Joel Robles,Everton,2016,13,3
-Tim Howard,Everton,2016,25,10
+Tim Howard,Everton,2016,25,11
 Jindrich Stanek,Everton,2016,0,2
 Tony Hibbert,Everton,2016,1,16
 Leighton Baines,Everton,2016,18,9
@@ -244,20 +244,20 @@ Matthew Pennington,Everton,2016,0,2
 Jonjoe Kenny,Everton,2016,1,2
 Darron Gibson,Everton,2016,7,5
 Kevin Mirallas,Everton,2016,23,4
-Aaron Lennon,Everton,2016,0,1
+Aaron Lennon,Everton,2016,0,2
 Tom Cleverley,Everton,2016,22,1
 James McCarthy,Everton,2016,29,3
 Muhamed Besic,Everton,2016,12,2
-Gareth Barry,Everton,2016,33,2
+Gareth Barry,Everton,2016,33,3
 Ross Barkley,Everton,2016,38,6
 Leon Osman,Everton,2016,9,16
-Steven Pienaar,Everton,2016,4,7
+Steven Pienaar,Everton,2016,4,9
 Tom Davies,Everton,2016,2,1
 Kieran Dowell,Everton,2016,2,2
 Arouna Koné,Everton,2016,25,3
-Romelu Lukaku,Everton,2016,37,2
+Romelu Lukaku,Everton,2016,37,3
 Oumar Niasse,Everton,2016,5,1
-Gerard Deulofeu,Everton,2016,0,0
+Gerard Deulofeu,Everton,2016,0,1
 Leandro Rodríguez,Everton,2016,0,1
 Conor McAleny,Everton,2016,0,7
 Francisco Júnior,Everton,2016,0,5
@@ -274,7 +274,7 @@ Mark Schwarzer,Leicester City,2016,0,2
 Jonny Maddison,Leicester City,2016,0,1
 Ritchie de Laet,Leicester City,2016,12,2
 Wes Morgan,Leicester City,2016,38,2
-Robert Huth,Leicester City,2016,0,0
+Robert Huth,Leicester City,2016,0,1
 Danny Simpson,Leicester City,2016,0,1
 Liam Moore,Leicester City,2016,0,2
 Marcin Wasilewski,Leicester City,2016,4,2
@@ -289,7 +289,7 @@ Marc Albrighton,Leicester City,2016,38,2
 Daniel Amartey,Leicester City,2016,5,1
 N'Golo Kanté,Leicester City,2016,37,1
 Jeffrey Schlupp,Leicester City,2016,24,2
-Nathan Dyer,Leicester City,2016,1,0
+Nathan Dyer,Leicester City,2016,1,1
 Riyad Mahrez,Leicester City,2016,37,2
 Gökhan Inler,Leicester City,2016,5,1
 Andre Olukanmi,Leicester City,2016,0,1
@@ -327,7 +327,7 @@ Joe Maguire,Liverpool,2016,0,1
 Daniel Cleary,Liverpool,2016,0,1
 Conor Masterson,Liverpool,2016,0,1
 Luis Alberto,Liverpool,2016,0,3
-James Milner,Liverpool,2016,28,1
+James Milner,Liverpool,2016,0,0
 Philippe Coutinho,Liverpool,2016,26,4
 Jordan Henderson,Liverpool,2016,17,5
 Adam Lallana,Liverpool,2016,30,2
@@ -352,7 +352,7 @@ Jerome Sinclair,Liverpool,2016,0,4
 Ryan Fulton,Liverpool,2016,0,1
 Allan,Liverpool,2016,0,1
 Marko Grujic,Liverpool,2016,0,1
-Fabio Borini,Liverpool,2016,0,4
+Fabio Borini,Liverpool,2016,0,3
 Mario Balotelli,Liverpool,2016,0,2
 Andre Wisdom,Liverpool,2016,0,5
 Trent Alexander-Arnold,Liverpool,2016,0,1
@@ -476,7 +476,7 @@ Andros Townsend,Newcastle United,2016,3,1
 Liam Gibson,Newcastle United,2016,0,1
 Papiss Demba Cissé,Newcastle United,2016,21,5
 Ayoze Pérez,Newcastle United,2016,34,2
-Seydou Doumbia,Newcastle United,2016,3,0
+Seydou Doumbia,Newcastle United,2016,3,1
 Emmanuel Rivière,Newcastle United,2016,0,1
 Ivan Toney,Newcastle United,2016,2,1
 Aleksandar Mitrovic,Newcastle United,2016,0,0
@@ -514,9 +514,9 @@ Alexander Tettey,Norwich City,2016,23,3
 Gary O'Neil,Norwich City,2016,27,1
 Vadis Odjidja-Ofoe,Norwich City,2016,0,0
 Steven Naismith,Norwich City,2016,10,1
-Dieudonne Mbokani Bezua,Norwich City,2016,29,0
+Dieudonne Mbokani Bezua,Norwich City,2016,29,1
 Cameron Jerome,Norwich City,2016,0,0
-Patrick Bamford,Norwich City,2016,0,0
+Patrick Bamford,Norwich City,2016,0,1
 Kyle Lafferty,Norwich City,2016,0,1
 Carlton Morris,Norwich City,2016,0,1
 Jake Kean,Norwich City,2016,0,0
@@ -540,7 +540,7 @@ Florin Gardos,Southampton,2016,0,1
 José Fonte,Southampton,2016,37,4
 Cuco Martina,Southampton,2016,0,0
 Virgil van Dijk,Southampton,2016,34,1
-Ryan Bertrand,Southampton,2016,0,0
+Ryan Bertrand,Southampton,2016,0,1
 Matt Targett,Southampton,2016,14,3
 Jordy Clasie,Southampton,2016,0,0
 Steven Davis,Southampton,2016,34,4
@@ -581,7 +581,7 @@ Geoff Cameron,Stoke City,2016,30,4
 Dionatan Teixeira,Stoke City,2016,1,2
 Philipp Wollscheid,Stoke City,2016,0,1
 Glenn Whelan,Stoke City,2016,37,8
-Stephen Ireland,Stoke City,2016,13,3
+Stephen Ireland,Stoke City,2016,13,4
 Ibrahim Afellay,Stoke City,2016,31,1
 Charlie Adam,Stoke City,2016,22,4
 Giannelli Imbula,Stoke City,2016,14,1
@@ -595,8 +595,8 @@ Joselu,Stoke City,2016,0,0
 Mame Biram Diouf,Stoke City,2016,26,2
 Jonathan Walters,Stoke City,2016,27,6
 Peter Crouch,Stoke City,2016,11,5
-Bojan,Stoke City,2016,27,2
-Marco van Ginkel,Stoke City,2016,0,0
+Bojan,Stoke City,2016,0,1
+Marco van Ginkel,Stoke City,2016,0,1
 Eddy Lecygne,Stoke City,2016,0,1
 Dominic Telford,Stoke City,2016,0,1
 Jordan Pickford,Sunderland,2016,2,5
@@ -611,9 +611,9 @@ Emmanuel Eboué,Sunderland,2016,0,0
 Younes Kaboul,Sunderland,2016,23,1
 John O'Shea,Sunderland,2016,28,5
 Lamine Koné,Sunderland,2016,15,1
-DeAndre Yedlin,Sunderland,2016,0,0
+DeAndre Yedlin,Sunderland,2016,0,1
 Jan Kirchhoff,Sunderland,2016,15,1
-Santiago Vergini,Sunderland,2016,0,1
+Santiago Vergini,Sunderland,2016,0,4
 Tom Beadling,Sunderland,2016,0,2
 Thomas Robson,Sunderland,2016,1,2
 Josh Robson,Sunderland,2016,0,1
@@ -621,25 +621,25 @@ Lee Cattermole,Sunderland,2016,31,7
 Sebastian Larsson,Sunderland,2016,18,5
 Jack Rodwell,Sunderland,2016,0,1
 Jordi Gómez,Sunderland,2016,6,2
-Ola Toivonen,Sunderland,2016,12,0
-Yann M'Vila,Sunderland,2016,37,0
+Ola Toivonen,Sunderland,2016,12,1
+Yann M'Vila,Sunderland,2016,37,1
 Wahbi Khazri,Sunderland,2016,14,1
 Emanuele Giaccherini,Sunderland,2016,0,3
 Rees Greenwood,Sunderland,2016,1,1
 George Honeyman,Sunderland,2016,1,2
 Mikael Mandron,Sunderland,2016,0,4
 Fabio Borini,Sunderland,2016,0,1
-Dame N'Doye,Sunderland,2016,11,0
+Dame N'Doye,Sunderland,2016,11,1
 Jeremain Lens,Sunderland,2016,0,0
 Jermain Defoe,Sunderland,2016,33,2
 Danny Graham,Sunderland,2016,0,3
 Steven Fletcher,Sunderland,2016,16,4
 Duncan Watmore,Sunderland,2016,23,3
 Adam Johnson,Sunderland,2016,19,4
-Sebastián Coates,Sunderland,2016,0,0
+Sebastián Coates,Sunderland,2016,0,1
 Charalampos Mavrias,Sunderland,2016,0,2
 Lynden Gooch,Sunderland,2016,0,1
-Costel Pantilimon,Sunderland,2016,17,2
+Costel Pantilimon,Sunderland,2016,0,1
 William Buckley,Sunderland,2016,0,2
 Liam Bridcutt,Sunderland,2016,0,2
 Lukasz Fabianski,Swansea City,2016,37,2
@@ -662,12 +662,12 @@ Nathan Dyer,Swansea City,2016,1,5
 Wayne Routledge,Swansea City,2016,28,5
 Jefferson Montero,Swansea City,2016,23,2
 Matt Grimes,Swansea City,2016,1,2
-Gylfi Sigurdsson,Swansea City,2016,36,2
+Gylfi Sigurdsson,Swansea City,2016,36,3
 Jack Cork,Swansea City,2016,0,1
 Daniel James,Swansea City,2016,0,1
 Jay Fulton,Swansea City,2016,2,3
 Alberto Paloschi,Swansea City,2016,10,1
-Marvin Emnes,Swansea City,2016,2,2
+Marvin Emnes,Swansea City,2016,2,3
 Éder,Swansea City,2016,0,0
 Bafétimbi Gomis,Swansea City,2016,33,2
 Kenji Gorré,Swansea City,2016,0,2
@@ -706,7 +706,7 @@ Harry Kane,Tottenham Hotspur,2016,38,7
 Clinton N'Jie,Tottenham Hotspur,2016,0,0
 Alex Pritchard,Tottenham Hotspur,2016,1,5
 Andros Townsend,Tottenham Hotspur,2016,3,8
-Emmanuel Adebayor,Tottenham Hotspur,2016,0,4
+Emmanuel Adebayor,Tottenham Hotspur,2016,0,5
 Aaron Lennon,Tottenham Hotspur,2016,0,11
 DeAndre Yedlin,Tottenham Hotspur,2016,0,2
 Roberto Soldado,Tottenham Hotspur,2016,0,3
@@ -714,7 +714,7 @@ Tom Glover,Tottenham Hotspur,2016,0,1
 Dominic Ball,Tottenham Hotspur,2016,0,3
 Heurelho Gomes,Watford,2016,38,1
 Rene Gilmartin,Watford,2016,0,1
-Costel Pantilimon,Watford,2016,17,1
+Costel Pantilimon,Watford,2016,0,0
 Giedrius Arlauskis,Watford,2016,0,0
 Nyom,Watford,2016,0,0
 Miguel Britos,Watford,2016,24,1
@@ -722,21 +722,21 @@ Sebastian Prödl,Watford,2016,0,0
 Joel Ekstrand,Watford,2016,0,1
 Juan Carlos Paredes,Watford,2016,17,1
 Craig Cathcart,Watford,2016,35,1
-Nathan Aké,Watford,2016,0,0
+Nathan Aké,Watford,2016,0,1
 Daniel Pudil,Watford,2016,0,1
 José Holebas,Watford,2016,0,0
 Essaïd Belkalem,Watford,2016,0,1
 Tommie Hoban,Watford,2016,0,1
 Abdoulaye Doucouré,Watford,2016,0,1
 Mario Suárez,Watford,2016,15,1
-Jurado,Watford,2016,0,0
+José Manuel Jurado,Watford,2016,0,0
 Valon Behrami,Watford,2016,0,0
 Nordin Amrabat,Watford,2016,0,0
 Ikechi Anya,Watford,2016,28,1
 Almen Abdi,Watford,2016,32,1
 Ben Watson,Watford,2016,35,1
 Etienne Capoue,Watford,2016,33,1
-Adalberto Peñaranda,Watford,2016,0,0
+Adalberto Peñaranda,Watford,2016,0,1
 Troy Deeney,Watford,2016,38,1
 Obbi Oularé,Watford,2016,0,0
 Matej Vydra,Watford,2016,0,1
@@ -745,8 +745,8 @@ Odion Ighalo,Watford,2016,0,0
 Lloyd Dyer,Watford,2016,0,1
 Diego Fabbrini,Watford,2016,0,1
 Connor Smith,Watford,2016,0,1
-Víctor Ibarbo,Watford,2016,4,0
-Alessandro Diamanti,Watford,2016,3,0
+Víctor Ibarbo,Watford,2016,4,1
+Alessandro Diamanti,Watford,2016,3,1
 Mathias Ranégie,Watford,2016,0,1
 Gabriele Angella,Watford,2016,0,1
 Miguel Layún,Watford,2016,3,1
@@ -755,7 +755,7 @@ Rafael Romo,Watford,2016,0,0
 Fernando Forestieri,Watford,2016,0,1
 Juanfran,Watford,2016,0,1
 Adlène Guédioura,Watford,2016,0,0
-Ben Foster,West Bromwich Albion,2016,15,4
+Ben Foster,West Bromwich Albion,2016,15,5
 Boaz Myhill,West Bromwich Albion,2016,23,6
 Alex Palmer,West Bromwich Albion,2016,0,2
 Jonas Olsson,West Bromwich Albion,2016,28,7
@@ -771,10 +771,10 @@ Craig Gardner,West Bromwich Albion,2016,34,2
 Chris Brunt,West Bromwich Albion,2016,22,7
 James McClean,West Bromwich Albion,2016,35,1
 Callum McManaman,West Bromwich Albion,2016,12,2
-Alex Pritchard,West Bromwich Albion,2016,1,0
+Alex Pritchard,West Bromwich Albion,2016,1,1
 Darren Fletcher,West Bromwich Albion,2016,38,2
 Stéphane Sessegnon,West Bromwich Albion,2016,25,3
-Sandro,West Bromwich Albion,2016,12,0
+Sandro,West Bromwich Albion,2016,12,1
 Tyler Roberts,West Bromwich Albion,2016,1,2
 Jonathan Leko,West Bromwich Albion,2016,5,1
 Sam Field,West Bromwich Albion,2016,1,1
@@ -785,7 +785,7 @@ Salomón Rondón,West Bromwich Albion,2016,0,0
 Joe Ward,West Bromwich Albion,2016,0,1
 Kyle Edwards,West Bromwich Albion,2016,0,1
 Jack Rose,West Bromwich Albion,2016,0,3
-Serge Gnabry,West Bromwich Albion,2016,0,0
+Serge Gnabry,West Bromwich Albion,2016,0,1
 Adil Nabi,West Bromwich Albion,2016,0,4
 Shaun Donnellan,West Bromwich Albion,2016,0,1
 Joleon Lescott,West Bromwich Albion,2016,2,2
@@ -806,11 +806,11 @@ Sam Byram,West Ham United,2016,4,1
 Doneil Henry,West Ham United,2016,0,2
 Stephen Hendrie,West Ham United,2016,0,1
 Reece Oxford,West Ham United,2016,7,2
-Alexandre Song,West Ham United,2016,0,0
+Alexandre Song,West Ham United,2016,0,3
 Cheikhou Kouyaté,West Ham United,2016,34,2
 Pedro Obiang,West Ham United,2016,24,1
 Mark Noble,West Ham United,2016,37,10
-Victor Moses,West Ham United,2016,0,0
+Victor Moses,West Ham United,2016,0,1
 Dimitri Payet,West Ham United,2016,30,1
 Manuel Lanzini,West Ham United,2016,0,0
 Michail Antonio,West Ham United,2016,26,1
@@ -818,14 +818,14 @@ Josh Cullen,West Ham United,2016,1,2
 Marcus Browne,West Ham United,2016,0,1
 Martin Samuelsen,West Ham United,2016,0,0
 George Dobson,West Ham United,2016,0,1
-Andy Carroll,West Ham United,2016,27,3
+Andy Carroll,West Ham United,2016,27,4
 Enner Valencia,West Ham United,2016,19,2
 Diafra Sakho,West Ham United,2016,21,2
-Emmanuel Emenike,West Ham United,2016,13,0
+Emmanuel Emenike,West Ham United,2016,13,1
 Djair Parfitt-Williams,West Ham United,2016,0,1
 Elliot Lee,West Ham United,2016,0,4
 Nikica Jelavic,West Ham United,2016,13,1
-Carl Jenkinson,West Ham United,2016,0,0
+Carl Jenkinson,West Ham United,2016,0,2
 Kyle Knoyle,West Ham United,2016,0,1
 Mauro Zárate,West Ham United,2016,15,2
 Reece Burke,West Ham United,2016,0,3

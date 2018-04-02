@@ -46,7 +46,7 @@ Kristoffer Olsson,Arsenal,2015,0,2
 Dejan Iliev,Arsenal,2015,0,1
 Samuel Galindo,Arsenal,2015,0,6
 Ignasi Miquel,Arsenal,2015,0,5
-Wellington,Arsenal,2015,0,5
+Wellington Silva,Arsenal,2015,0,5
 Brad Guzan,Aston Villa,2015,34,7
 Jed Steer,Aston Villa,2015,1,3
 Shay Given,Aston Villa,2015,3,4
@@ -66,7 +66,7 @@ Matthew Lowton,Aston Villa,2015,12,3
 Enda Stevens,Aston Villa,2015,0,4
 Aleksandar Tonev,Aston Villa,2015,0,2
 Yacouba Sylla,Aston Villa,2015,0,3
-Tom Cleverley,Aston Villa,2015,1,0
+Tom Cleverley,Aston Villa,2015,1,1
 Scott Sinclair,Aston Villa,2015,2,1
 Joe Cole,Aston Villa,2015,12,1
 Ashley Westwood,Aston Villa,2015,27,3
@@ -122,7 +122,7 @@ Marvin Sordell,Burnley,2015,14,1
 Lukas Jutkiewicz,Burnley,2015,25,1
 Ashley Barnes,Burnley,2015,35,1
 Jason Gilchrist,Burnley,2015,0,1
-Nathaniel Chalobah,Burnley,2015,0,0
+Nathaniel Chalobah,Burnley,2015,0,1
 Luke Conlan,Burnley,2015,0,1
 Danijel Nizic,Burnley,2015,0,1
 Ntumba Massanka,Burnley,2015,0,1
@@ -135,7 +135,7 @@ Todd Kane,Chelsea,2015,0,3
 Wallace Oliveira,Chelsea,2015,0,2
 Kenneth Omeruo,Chelsea,2015,0,2
 Branislav Ivanovic,Chelsea,2015,38,10
-Filipe Luis,Chelsea,2015,15,1
+Filipe Luís,Chelsea,2015,15,1
 Kurt Zouma,Chelsea,2015,15,2
 Nathan Aké,Chelsea,2015,1,3
 Gary Cahill,Chelsea,2015,36,4
@@ -216,8 +216,8 @@ Owen Garvan,Crystal Palace,2015,0,2
 Hiram Boateng,Crystal Palace,2015,0,2
 Sullay Kaikai,Crystal Palace,2015,0,3
 Jake Gray,Crystal Palace,2015,0,1
-Jason Puncheon,Crystal Palace,2015,37,2
-Yaya Sanogo,Crystal Palace,2015,3,0
+Jason Puncheon,Crystal Palace,2015,37,3
+Yaya Sanogo,Crystal Palace,2015,3,1
 Fraizer Campbell,Crystal Palace,2015,20,1
 Stephen Dobbie,Crystal Palace,2015,0,2
 Dwight Gayle,Crystal Palace,2015,25,2
@@ -228,11 +228,11 @@ Kwesi Appiah,Crystal Palace,2015,0,2
 Keshi Anderson,Crystal Palace,2015,0,1
 Stuart O'Keefe,Crystal Palace,2015,2,2
 Jimmy Kébé,Crystal Palace,2015,0,2
-Kevin Doyle,Crystal Palace,2015,3,0
+Kevin Doyle,Crystal Palace,2015,3,1
 Alex Wynter,Crystal Palace,2015,0,2
 Andrew Johnson,Crystal Palace,2015,0,2
 Joel Robles,Everton,2015,7,2
-Tim Howard,Everton,2015,32,9
+Tim Howard,Everton,2015,32,10
 Jindrich Stanek,Everton,2015,0,1
 Russell Griffiths,Everton,2015,0,1
 Tony Hibbert,Everton,2015,4,15
@@ -255,19 +255,19 @@ Aiden McGeady,Everton,2015,16,2
 Kevin Mirallas,Everton,2015,29,3
 James McCarthy,Everton,2015,28,2
 Muhamed Besic,Everton,2015,23,1
-Gareth Barry,Everton,2015,33,1
-Christian Atsu,Everton,2015,0,0
+Gareth Barry,Everton,2015,33,2
+Christian Atsu,Everton,2015,0,1
 Ross Barkley,Everton,2015,29,5
 Leon Osman,Everton,2015,21,15
-Steven Pienaar,Everton,2015,9,6
-Aaron Lennon,Everton,2015,9,0
+Steven Pienaar,Everton,2015,9,8
+Aaron Lennon,Everton,2015,9,1
 John Lundstram,Everton,2015,0,3
 Conor Grant,Everton,2015,0,1
 Ryan Ledson,Everton,2015,0,3
 Joe Williams,Everton,2015,0,1
 Kieran Dowell,Everton,2015,0,1
 Arouna Koné,Everton,2015,12,2
-Romelu Lukaku,Everton,2015,36,1
+Romelu Lukaku,Everton,2015,36,2
 Steven Naismith,Everton,2015,31,3
 Conor McAleny,Everton,2015,0,6
 Sam Byrne,Everton,2015,0,1
@@ -288,7 +288,7 @@ Alex Bruce,Hull City,2015,22,2
 James Chester,Hull City,2015,23,2
 Curtis Davies,Hull City,2015,21,2
 Harry Maguire,Hull City,2015,3,1
-Paul McShane,Hull City,2015,20,4
+Paul McShane,Hull City,2015,20,5
 Joe Dudgeon,Hull City,2015,0,2
 Michael Dawson,Hull City,2015,0,1
 Andrew Robertson,Hull City,2015,24,1
@@ -298,10 +298,10 @@ David Meyler,Hull City,2015,28,2
 Tom Huddlestone,Hull City,2015,31,2
 Robert Snodgrass,Hull City,2015,1,1
 Robbie Brady,Hull City,2015,27,2
-Jake Livermore,Hull City,2015,35,1
+Jake Livermore,Hull City,2015,35,2
 Mohamed Diamé,Hull City,2015,3,1
 Tom Ince,Hull City,2015,7,1
-Gastón Ramírez,Hull City,2015,1,0
+Gastón Ramírez,Hull City,2015,1,1
 Ahmed El Mohamady,Hull City,2015,38,2
 Stephen Quinn,Hull City,2015,28,2
 Abel Hernández,Hull City,2015,25,1
@@ -310,7 +310,7 @@ Yannick Sagbo,Hull City,2015,4,2
 Sone Aluko,Hull City,2015,25,2
 Dame N'Doye,Hull City,2015,15,1
 Calaum Jahraldo-Martin,Hull City,2015,0,2
-Hatem Ben Arfa,Hull City,2015,0,0
+Hatem Ben Arfa,Hull City,2015,0,1
 George Boyd,Hull City,2015,1,2
 Greg Luer,Hull City,2015,0,1
 Matt Dixon,Hull City,2015,0,1
@@ -323,7 +323,7 @@ Ritchie de Laet,Leicester City,2015,26,1
 Paul Konchesky,Leicester City,2015,26,1
 Wes Morgan,Leicester City,2015,37,1
 Matt Upson,Leicester City,2015,5,1
-Robert Huth,Leicester City,2015,1,0
+Robert Huth,Leicester City,2015,1,1
 Danny Simpson,Leicester City,2015,1,1
 Liam Moore,Leicester City,2015,11,1
 Zoumana Bakayogo,Leicester City,2015,0,1
@@ -348,7 +348,7 @@ Leonardo Ulloa,Leicester City,2015,37,1
 David Nugent,Leicester City,2015,29,1
 Chris Wood,Leicester City,2015,7,1
 Andrej Kramaric,Leicester City,2015,13,1
-Nick Powell,Leicester City,2015,0,0
+Nick Powell,Leicester City,2015,0,1
 James Pearson,Leicester City,2015,0,1
 Michael Cain,Leicester City,2015,0,1
 Harry Panayiotou,Leicester City,2015,0,1
@@ -364,7 +364,7 @@ Dejan Lovren,Liverpool,2015,26,1
 Sebastián Coates,Liverpool,2015,0,4
 Mamadou Sakho,Liverpool,2015,16,2
 Alberto Moreno,Liverpool,2015,28,1
-Javier Manquillo,Liverpool,2015,10,0
+Javier Manquillo,Liverpool,2015,10,1
 Tiago Ilori,Liverpool,2015,0,2
 Martin Skrtel,Liverpool,2015,33,8
 Jon Flanagan,Liverpool,2015,0,7
@@ -484,7 +484,7 @@ Marouane Fellaini,Manchester United,2015,27,2
 Jesse Lingard,Manchester United,2015,1,4
 Andreas Pereira,Manchester United,2015,1,1
 Ángelo Henríquez,Manchester United,2015,0,3
-Falcao,Manchester United,2015,26,0
+Falcao,Manchester United,2015,26,1
 Wayne Rooney,Manchester United,2015,33,11
 Chicharito,Manchester United,2015,1,5
 Robin van Persie,Manchester United,2015,27,3
@@ -535,7 +535,7 @@ Gael Bigirimana,Newcastle United,2015,0,5
 Olivier Kemen,Newcastle United,2015,0,1
 Callum Roberts,Newcastle United,2015,0,1
 Papiss Demba Cissé,Newcastle United,2015,22,4
-Facundo Ferreyra,Newcastle United,2015,0,0
+Facundo Ferreyra,Newcastle United,2015,0,1
 Ayoze Pérez,Newcastle United,2015,36,1
 Sammy Ameobi,Newcastle United,2015,25,5
 Emmanuel Rivière,Newcastle United,2015,23,1
@@ -544,7 +544,7 @@ Adam Campbell,Newcastle United,2015,0,3
 Alex Gilliead,Newcastle United,2015,0,1
 Davide Santon,Newcastle United,2015,0,4
 Mapou Yanga-Mbiwa,Newcastle United,2015,0,3
-Hatem Ben Arfa,Newcastle United,2015,0,5
+Hatem Ben Arfa,Newcastle United,2015,0,6
 Robert Green,Queens Park Rangers,2015,36,2
 Alex McCarthy,Queens Park Rangers,2015,3,1
 Brian Murphy,Queens Park Rangers,2015,0,3
@@ -554,7 +554,7 @@ Steven Caulker,Queens Park Rangers,2015,35,1
 Rio Ferdinand,Queens Park Rangers,2015,11,1
 Clint Hill,Queens Park Rangers,2015,19,3
 Yun Suk-Young,Queens Park Rangers,2015,23,2
-Mauricio Isla,Queens Park Rangers,2015,26,0
+Mauricio Isla,Queens Park Rangers,2015,26,1
 Nedum Onuoha,Queens Park Rangers,2015,23,3
 Richard Dunne,Queens Park Rangers,2015,23,1
 Max Ehmer,Queens Park Rangers,2015,0,3
@@ -568,7 +568,7 @@ Shaun Wright-Phillips,Queens Park Rangers,2015,4,3
 Jermaine Jenas,Queens Park Rangers,2015,0,2
 Frankie Sutherland,Queens Park Rangers,2015,0,2
 Alejandro Faurlin,Queens Park Rangers,2015,2,3
-Niko Kranjcar,Queens Park Rangers,2015,22,0
+Niko Kranjcar,Queens Park Rangers,2015,22,1
 Karl Henry,Queens Park Rangers,2015,33,1
 Hogan Ephraim,Queens Park Rangers,2015,0,3
 David Junior Hoilett,Queens Park Rangers,2015,22,2
@@ -580,16 +580,16 @@ Reece Grego-Cox,Queens Park Rangers,2015,4,1
 Brandon Comley,Queens Park Rangers,2015,1,1
 Michael Petrasso,Queens Park Rangers,2015,0,2
 Charlie Austin,Queens Park Rangers,2015,35,1
-Eduardo Vargas,Queens Park Rangers,2015,21,0
+Eduardo Vargas,Queens Park Rangers,2015,21,1
 Bobby Zamora,Queens Park Rangers,2015,31,3
-Mauro Zárate,Queens Park Rangers,2015,7,0
+Mauro Zárate,Queens Park Rangers,2015,7,1
 Jordon Mutch,Queens Park Rangers,2015,9,1
 Josh Laurent,Queens Park Rangers,2015,0,1
 Michael Harriman,Queens Park Rangers,2015,0,3
 Loïc Remy,Queens Park Rangers,2015,2,2
 Danny Simpson,Queens Park Rangers,2015,1,1
 Julio César,Queens Park Rangers,2015,0,2
-Samba Diakité,Queens Park Rangers,2015,0,2
+Samba Diakité,Queens Park Rangers,2015,0,3
 Kelvin Davis,Southampton,2015,7,3
 Fraser Forster,Southampton,2015,30,1
 Paulo Gazzaniga,Southampton,2015,2,3
@@ -599,8 +599,8 @@ Nathaniel Clyne,Southampton,2015,35,3
 Maya Yoshida,Southampton,2015,22,3
 Florin Gardos,Southampton,2015,11,1
 José Fonte,Southampton,2015,37,3
-Toby Alderweireld,Southampton,2015,26,0
-Ryan Bertrand,Southampton,2015,0,0
+Toby Alderweireld,Southampton,2015,26,1
+Ryan Bertrand,Southampton,2015,0,1
 Jos Hooiveld,Southampton,2015,0,3
 Jason McCarthy,Southampton,2015,1,2
 Matt Targett,Southampton,2015,6,2
@@ -611,9 +611,9 @@ Steven Davis,Southampton,2015,35,3
 Sadio Mané,Southampton,2015,30,1
 Dusan Tadic,Southampton,2015,31,1
 Victor Wanyama,Southampton,2015,32,2
-Filip Djuricic,Southampton,2015,9,0
+Filip Djuricic,Southampton,2015,9,1
 James Ward-Prowse,Southampton,2015,25,3
-Eljero Elia,Southampton,2015,16,0
+Eljero Elia,Southampton,2015,16,1
 Lloyd Isgrove,Southampton,2015,1,3
 Harrison Reed,Southampton,2015,9,2
 Jake Flannigan,Southampton,2015,0,1
@@ -628,7 +628,7 @@ Sam Gallagher,Southampton,2015,0,2
 Ryan Seager,Southampton,2015,1,1
 Pablo Daniel Osvaldo,Southampton,2015,0,2
 Jack Cork,Southampton,2015,12,3
-Saphir Taïder,Southampton,2015,0,0
+Saphir Taïder,Southampton,2015,0,1
 Asmir Begovic,Stoke City,2015,35,6
 Jack Butland,Stoke City,2015,3,3
 Thomas Sørensen,Stoke City,2015,0,7
@@ -644,9 +644,9 @@ Dionatan Teixeira,Stoke City,2015,1,1
 Philipp Wollscheid,Stoke City,2015,12,1
 Andy Wilkinson,Stoke City,2015,0,7
 Glenn Whelan,Stoke City,2015,28,7
-Stephen Ireland,Stoke City,2015,17,2
+Stephen Ireland,Stoke City,2015,17,3
 Wilson Palacios,Stoke City,2015,0,4
-Victor Moses,Stoke City,2015,0,0
+Victor Moses,Stoke City,2015,0,1
 Jamie Ness,Stoke City,2015,0,3
 Steven N'Zonzi,Stoke City,2015,38,3
 Charlie Adam,Stoke City,2015,29,3
@@ -662,7 +662,7 @@ Maurice Edu,Stoke City,2015,0,3
 Ryan Shotton,Stoke City,2015,0,7
 Brek Shea,Stoke City,2015,0,3
 Cameron Jerome,Stoke City,2015,0,4
-Oussama Assaidi,Stoke City,2015,0,0
+Oussama Assaidi,Stoke City,2015,0,2
 Costel Pantilimon,Sunderland,2015,28,1
 Jordan Pickford,Sunderland,2015,0,4
 Vito Mannone,Sunderland,2015,10,2
@@ -673,8 +673,8 @@ Patrick van Aanholt,Sunderland,2015,28,1
 Wes Brown,Sunderland,2015,25,4
 Anthony Réveillere,Sunderland,2015,16,1
 John O'Shea,Sunderland,2015,37,4
-Sebastián Coates,Sunderland,2015,0,0
-Santiago Vergini,Sunderland,2015,0,1
+Sebastián Coates,Sunderland,2015,0,1
+Santiago Vergini,Sunderland,2015,0,3
 Valentin Roberge,Sunderland,2015,1,2
 Tom Beadling,Sunderland,2015,0,1
 Thomas Robson,Sunderland,2015,0,1
@@ -685,7 +685,7 @@ Jack Rodwell,Sunderland,2015,23,1
 Adam Johnson,Sunderland,2015,32,3
 Jordi Gómez,Sunderland,2015,29,1
 Charalampos Mavrias,Sunderland,2015,0,2
-Ricardo Álvarez,Sunderland,2015,13,0
+Ricardo Álvarez,Sunderland,2015,13,1
 El-Hadji Ba,Sunderland,2015,0,2
 Emanuele Giaccherini,Sunderland,2015,8,2
 William Buckley,Sunderland,2015,22,1
@@ -727,18 +727,18 @@ Ki Sung-yueng,Swansea City,2015,33,3
 Leon Britton,Swansea City,2015,9,4
 Jonjo Shelvey,Swansea City,2015,31,2
 Nathan Dyer,Swansea City,2015,32,4
-Tom Carroll,Swansea City,2015,0,0
+Tom Carroll,Swansea City,2015,0,1
 Wayne Routledge,Swansea City,2015,29,4
 Jefferson Montero,Swansea City,2015,30,1
 Matt Grimes,Swansea City,2015,3,1
-Gylfi Sigurdsson,Swansea City,2015,32,1
+Gylfi Sigurdsson,Swansea City,2015,32,2
 Jack Cork,Swansea City,2015,12,1
 Josh Sheehan,Swansea City,2015,0,2
 Kenji Gorré,Swansea City,2015,1,1
 Adam King,Swansea City,2015,0,2
 Jay Fulton,Swansea City,2015,2,2
-Marvin Emnes,Swansea City,2015,17,1
-Nélson Oliveira,Swansea City,2015,10,0
+Marvin Emnes,Swansea City,2015,17,2
+Nélson Oliveira,Swansea City,2015,10,1
 Bafétimbi Gomis,Swansea City,2015,31,1
 Rory Donnelly,Swansea City,2015,0,4
 Modou Barrow,Swansea City,2015,11,1
@@ -779,7 +779,7 @@ Nabil Bentaleb,Tottenham Hotspur,2015,26,2
 Harry Winks,Tottenham Hotspur,2015,0,3
 Josh Onomah,Tottenham Hotspur,2015,0,2
 Roberto Soldado,Tottenham Hotspur,2015,24,2
-Emmanuel Adebayor,Tottenham Hotspur,2015,13,3
+Emmanuel Adebayor,Tottenham Hotspur,2015,13,4
 Harry Kane,Tottenham Hotspur,2015,34,6
 Benoit Assou-Ekotto,Tottenham Hotspur,2015,0,9
 Dominic Ball,Tottenham Hotspur,2015,0,2
@@ -792,11 +792,11 @@ Lewis Holtby,Tottenham Hotspur,2015,1,3
 Jonathan Obika,Tottenham Hotspur,2015,0,7
 Michael Dawson,Tottenham Hotspur,2015,0,11
 Shaquile Coulthirst,Tottenham Hotspur,2015,0,3
-Ben Foster,West Bromwich Albion,2015,28,3
+Ben Foster,West Bromwich Albion,2015,28,4
 Boaz Myhill,West Bromwich Albion,2015,11,5
 Jack Rose,West Bromwich Albion,2015,0,2
 Alex Palmer,West Bromwich Albion,2015,0,1
-Andre Wisdom,West Bromwich Albion,2015,0,0
+Andre Wisdom,West Bromwich Albion,2015,0,1
 Jonas Olsson,West Bromwich Albion,2015,13,6
 Chris Baird,West Bromwich Albion,2015,19,1
 Joleon Lescott,West Bromwich Albion,2015,34,1
@@ -815,7 +815,7 @@ Craig Gardner,West Bromwich Albion,2015,35,1
 Chris Brunt,West Bromwich Albion,2015,34,6
 Graham Dorrans,West Bromwich Albion,2015,21,6
 Callum McManaman,West Bromwich Albion,2015,8,1
-Youssouf Mulumbu,West Bromwich Albion,2015,17,5
+Youssouf Mulumbu,West Bromwich Albion,2015,17,6
 Darren Fletcher,West Bromwich Albion,2015,11,1
 Stéphane Sessegnon,West Bromwich Albion,2015,28,2
 Kemar Roofe,West Bromwich Albion,2015,0,5
@@ -828,7 +828,7 @@ Georgios Samaras,West Bromwich Albion,2015,5,1
 Adil Nabi,West Bromwich Albion,2015,0,3
 Sebastián Blanco,West Bromwich Albion,2015,3,1
 Luke Daniels,West Bromwich Albion,2015,0,8
-Silvestre Varela,West Bromwich Albion,2015,7,0
+Silvestre Varela,West Bromwich Albion,2015,7,1
 Adrián,West Ham United,2015,38,2
 Jussi Jääskeläinen,West Ham United,2015,1,3
 Raphael Spiegel,West Ham United,2015,0,3
@@ -836,7 +836,7 @@ Winston Reid,West Ham United,2015,30,4
 Aaron Cresswell,West Ham United,2015,38,1
 James Tomkins,West Ham United,2015,22,7
 Joey O'Brien,West Ham United,2015,9,3
-Carl Jenkinson,West Ham United,2015,0,0
+Carl Jenkinson,West Ham United,2015,0,1
 James Collins,West Ham United,2015,27,8
 Guy Demel,West Ham United,2015,6,3
 Doneil Henry,West Ham United,2015,0,1
@@ -853,10 +853,10 @@ Nenê,West Ham United,2015,8,1
 Mark Noble,West Ham United,2015,28,9
 Morgan Amalfitano,West Ham United,2015,24,1
 Diego Poyet,West Ham United,2015,3,1
-Alexandre Song,West Ham United,2015,28,0
+Alexandre Song,West Ham United,2015,28,1
 Josh Cullen,West Ham United,2015,0,1
 Modibo Maiga,West Ham United,2015,0,3
-Andy Carroll,West Ham United,2015,14,2
+Andy Carroll,West Ham United,2015,14,3
 Mauro Zárate,West Ham United,2015,7,1
 Diafra Sakho,West Ham United,2015,23,1
 Carlton Cole,West Ham United,2015,23,8

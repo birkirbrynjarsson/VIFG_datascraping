@@ -32,7 +32,7 @@ Jack Wilshere,Arsenal,2010,1,2
 Theo Walcott,Arsenal,2010,23,5
 Denilson,Arsenal,2010,20,4
 Aaron Ramsey,Arsenal,2010,18,2
-Alexandre Song,Arsenal,2010,26,5
+Alexandre Song,Arsenal,2010,26,4
 Francis Coquelin,Arsenal,2010,0,2
 Andrey Arshavin,Arsenal,2010,30,2
 Abou Diaby,Arsenal,2010,29,5
@@ -66,7 +66,7 @@ Stephen Warnock,Aston Villa,2010,1,1
 Richard Dunne,Aston Villa,2010,2,1
 James Collins,Aston Villa,2010,0,1
 Ciaran Clark,Aston Villa,2010,1,2
-Curtis Davies,Aston Villa,2010,2,3
+Curtis Davies,Aston Villa,2010,2,2
 Nicky Shorey,Aston Villa,2010,3,2
 Habib Beye,Aston Villa,2010,6,1
 Carlos Cuellar,Aston Villa,2010,36,2
@@ -76,7 +76,7 @@ Moustapha Salifou,Aston Villa,2010,0,3
 Steve Sidwell,Aston Villa,2010,25,2
 Stewart Downing,Aston Villa,2010,25,1
 Ashley Young,Aston Villa,2010,37,4
-James Milner,Aston Villa,2010,36,3
+James Milner,Aston Villa,2010,36,2
 Marc Albrighton,Aston Villa,2010,3,2
 Fabian Delph,Aston Villa,2010,8,1
 Chris Herd,Aston Villa,2010,0,3
@@ -95,9 +95,9 @@ Emile Heskey,Aston Villa,2010,31,2
 Nathan Delfouneso,Aston Villa,2010,9,2
 Craig Gardner,Aston Villa,2010,1,5
 Artur Krysiak,Birmingham City,2010,0,2
-Maik Taylor,Birmingham City,2010,2,6
+Maik Taylor,Birmingham City,2010,2,5
 Colin Doyle,Birmingham City,2010,0,5
-Joe Hart,Birmingham City,2010,0,1
+Joe Hart,Birmingham City,2010,0,0
 Jared Wilson,Birmingham City,2010,0,1
 Graham Hutchison,Birmingham City,2010,0,1
 Stephen Carr,Birmingham City,2010,35,1
@@ -121,13 +121,13 @@ Gary McSheffrey,Birmingham City,2010,5,2
 Míchel,Birmingham City,2010,9,1
 Nathan Redmond,Birmingham City,2010,0,1
 Lee Carsley,Birmingham City,2010,7,1
-Teemu Tainio,Birmingham City,2010,0,1
+Teemu Tainio,Birmingham City,2010,0,0
 Ashley Sammons,Birmingham City,2010,0,1
 Mitchell McPike,Birmingham City,2010,0,1
 Kevin Phillips,Birmingham City,2010,19,1
 Cameron Jerome,Birmingham City,2010,32,2
 Garry O'Connor,Birmingham City,2010,10,2
-Christian Benitez,Birmingham City,2010,30,1
+Christian Benitez,Birmingham City,2010,30,0
 Jake Jervis,Birmingham City,2010,0,1
 Marcus Bent,Birmingham City,2010,0,1
 Jay O'Shea,Birmingham City,2010,1,1
@@ -142,7 +142,7 @@ Jason Brown,Blackburn Rovers,2010,4,4
 Frank Fielding,Blackburn Rovers,2010,0,3
 Jake Kean,Blackburn Rovers,2010,0,1
 Jonathan Flynn,Blackburn Rovers,2010,0,3
-Zurab Khizanishvili,Blackburn Rovers,2010,0,5
+Zurab Khizanishvili,Blackburn Rovers,2010,0,4
 Míchel Salgado,Blackburn Rovers,2010,21,1
 Lars Jacobsen,Blackburn Rovers,2010,13,1
 Martin Olsson,Blackburn Rovers,2010,21,5
@@ -151,7 +151,7 @@ Grant Hanley,Blackburn Rovers,2010,1,1
 Ryan Nelsen,Blackburn Rovers,2010,28,6
 Phil Jones,Blackburn Rovers,2010,9,1
 Gavin Gunning,Blackburn Rovers,2010,0,2
-Gaël Givet,Blackburn Rovers,2010,34,2
+Gaël Givet,Blackburn Rovers,2010,34,1
 Pascal Chimbonda,Blackburn Rovers,2010,0,1
 Brett Emerton,Blackburn Rovers,2010,24,7
 David Dunn,Blackburn Rovers,2010,23,8
@@ -167,10 +167,10 @@ Marcus Marshall,Blackburn Rovers,2010,0,2
 Amine Linganzi,Blackburn Rovers,2010,1,1
 Alex Marrow,Blackburn Rovers,2010,0,2
 Andy Haworth,Blackburn Rovers,2010,0,2
-El Hadji Diouf,Blackburn Rovers,2010,26,3
+El Hadji Diouf,Blackburn Rovers,2010,26,2
 Nikola Kalinic,Blackburn Rovers,2010,26,1
 Aaron Doran,Blackburn Rovers,2010,0,2
-Franco Di Santo,Blackburn Rovers,2010,0,1
+Franco Di Santo,Blackburn Rovers,2010,0,0
 Nick Blackman,Blackburn Rovers,2010,0,2
 Jason Roberts,Blackburn Rovers,2010,29,4
 Maceo Rigters,Blackburn Rovers,2010,0,3
@@ -189,7 +189,7 @@ Chris Stokes,Bolton Wanderers,2010,0,1
 Nicky Hunt,Bolton Wanderers,2010,0,9
 Grétar Steinsson,Bolton Wanderers,2010,27,3
 Jlloyd Samuel,Bolton Wanderers,2010,13,3
-Paul Robinson,Bolton Wanderers,2010,10,2
+Paul Robinson,Bolton Wanderers,2010,10,1
 Gary Cahill,Bolton Wanderers,2010,29,3
 Zat Knight,Bolton Wanderers,2010,35,1
 Sam Ricketts,Bolton Wanderers,2010,27,1
@@ -197,7 +197,7 @@ Danny Shittu,Bolton Wanderers,2010,0,2
 Chris Basham,Bolton Wanderers,2010,8,2
 Andy O'Brien,Bolton Wanderers,2010,6,3
 Mark Connolly,Bolton Wanderers,2010,0,1
-Ivan Klasnic,Bolton Wanderers,2010,27,1
+Ivan Klasnic,Bolton Wanderers,2010,27,0
 Gavin McCann,Bolton Wanderers,2010,11,3
 Fabrice Muamba,Bolton Wanderers,2010,36,2
 Matthew Taylor,Bolton Wanderers,2010,37,3
@@ -208,13 +208,13 @@ Stuart Holden,Bolton Wanderers,2010,2,1
 Sean Davis,Bolton Wanderers,2010,3,1
 Lee Chung-yong,Bolton Wanderers,2010,34,1
 Joey O'Brien,Bolton Wanderers,2010,0,6
-Jack Wilshere,Bolton Wanderers,2010,1,1
-Vladimir Weiss,Bolton Wanderers,2010,0,1
+Jack Wilshere,Bolton Wanderers,2010,1,0
+Vladimir Weiss,Bolton Wanderers,2010,0,0
 Johan Elmander,Bolton Wanderers,2010,25,2
 Kevin Davies,Bolton Wanderers,2010,37,7
 Mustapha Riga,Bolton Wanderers,2010,1,2
 Ricardo Vaz Te,Bolton Wanderers,2010,0,7
-Zoltán Harsányi,Bolton Wanderers,2010,0,4
+Zoltán Harsányi,Bolton Wanderers,2010,0,3
 Danny Ward,Bolton Wanderers,2010,2,1
 Tope Obadeyi,Bolton Wanderers,2010,0,2
 Brian Jensen,Burnley,2010,38,1
@@ -235,7 +235,7 @@ Kevin Long,Burnley,2010,0,1
 Chris Lynch,Burnley,2010,0,1
 Nik Kudiersky,Burnley,2010,0,1
 Ben Hoskin,Burnley,2010,0,1
-Jack Cork,Burnley,2010,0,1
+Jack Cork,Burnley,2010,0,0
 Joe McKee,Burnley,2010,0,1
 Graham Alexander,Burnley,2010,33,1
 Chris McCann,Burnley,2010,7,1
@@ -250,13 +250,13 @@ Steven Fletcher,Burnley,2010,35,1
 Jay Rodriguez,Burnley,2010,0,1
 Martin Paterson,Burnley,2010,23,1
 Robbie Blake,Burnley,2010,31,1
-David Nugent,Burnley,2010,3,1
-Frédéric Nimani,Burnley,2010,2,1
+David Nugent,Burnley,2010,3,0
+Frédéric Nimani,Burnley,2010,2,0
 Steven Thompson,Burnley,2010,20,1
 Wes Fletcher,Burnley,2010,0,1
 Johannes Karl Gudjonsson,Burnley,2010,10,1
 Christian Kalvenes,Burnley,2010,6,1
-Fernando Guerrero,Burnley,2010,7,2
+Fernando Guerrero,Burnley,2010,7,1
 Jonathan Lund,Burnley,2010,0,1
 Remco van der Schaaf,Burnley,2010,0,1
 Petr Cech,Chelsea,2010,34,6
@@ -305,7 +305,7 @@ Nicolas Anelka,Chelsea,2010,33,3
 Fabio Borini,Chelsea,2010,4,1
 Danny Philliskirk,Chelsea,2010,0,3
 Thomas Taiwo,Chelsea,2010,0,2
-Fábio Ferreira,Chelsea,2010,0,2
+Fabio Ferreira,Chelsea,2010,0,2
 Lee Sawyer,Chelsea,2010,0,4
 Andriy Shevchenko,Chelsea,2010,1,4
 Claudio Pizarro,Chelsea,2010,0,2
@@ -313,7 +313,7 @@ Shaun Cummings,Chelsea,2010,0,3
 Liam Bridcutt,Chelsea,2010,0,3
 Carlo Nash,Everton,2010,0,2
 Iain Turner,Everton,2010,0,8
-Tim Howard,Everton,2010,38,5
+Tim Howard,Everton,2010,38,4
 John Ruddy,Everton,2010,0,5
 James McCarten,Everton,2010,0,1
 Moses Barnett,Everton,2010,0,1
@@ -322,7 +322,7 @@ Leighton Baines,Everton,2010,37,3
 John Heitinga,Everton,2010,31,1
 Phil Jagielka,Everton,2010,12,3
 Sylvain Distin,Everton,2010,3,1
-Philippe Senderos,Everton,2010,0,1
+Philippe Senderos,Everton,2010,0,0
 Seamus Coleman,Everton,2010,3,2
 Luke Garbutt,Everton,2010,0,1
 Shkodran Mustafi,Everton,2010,0,1
@@ -336,11 +336,11 @@ Anton Peterlin,Everton,2010,0,1
 Femi Orenuga,Everton,2010,0,1
 Diniyar Bilyaletdinov,Everton,2010,23,1
 Jack Rodwell,Everton,2010,26,3
-Mikel Arteta,Everton,2010,13,6
+Mikel Arteta,Everton,2010,13,5
 Tim Cahill,Everton,2010,33,6
 Phil Neville,Everton,2010,23,5
 Dan Gosling,Everton,2010,11,3
-Steven Pienaar,Everton,2010,30,3
+Steven Pienaar,Everton,2010,30,2
 Leon Osman,Everton,2010,26,10
 Marouane Fellaini,Everton,2010,23,2
 Adam Forshaw,Everton,2010,0,1
@@ -354,8 +354,8 @@ Victor Anichebe,Everton,2010,11,5
 Conor McAleny,Everton,2010,0,1
 Kieran Agard,Everton,2010,1,2
 Jose Baxter,Everton,2010,2,2
-Landon Donovan,Everton,2010,10,2
-Jô,Everton,2010,0,3
+Landon Donovan,Everton,2010,10,1
+Jô,Everton,2010,0,1
 Lucas Neill,Everton,2010,12,1
 Lukas Jutkiewicz,Everton,2010,0,3
 Joleon Lescott,Everton,2010,1,4
@@ -369,7 +369,7 @@ Paul Konchesky,Fulham,2010,27,3
 John Pantsil,Fulham,2010,22,2
 Brede Hangeland,Fulham,2010,32,3
 Chris Baird,Fulham,2010,32,3
-Nicky Shorey,Fulham,2010,3,1
+Nicky Shorey,Fulham,2010,3,0
 Matthew Briggs,Fulham,2010,0,4
 Aaron Hughes,Fulham,2010,34,3
 Fredrik Stoor,Fulham,2010,2,2
@@ -377,7 +377,7 @@ Chris Smalling,Fulham,2010,12,2
 Toni Kallio,Fulham,2010,1,3
 Alex Smith,Fulham,2010,0,1
 Keanu Marsh-Brown,Fulham,2010,0,1
-Jonathan Greening,Fulham,2010,23,1
+Jonathan Greening,Fulham,2010,23,0
 Christopher Buchtmann,Fulham,2010,0,1
 Zoltán Gera,Fulham,2010,27,2
 Danny Murphy,Fulham,2010,25,3
@@ -412,12 +412,12 @@ Matt Duke,Hull City,2010,11,2
 Boaz Myhill,Hull City,2010,27,2
 Mark Oxley,Hull City,2010,0,2
 Andy Dawson,Hull City,2010,35,2
-Anthony Gardner,Hull City,2010,24,3
-Paul McShane,Hull City,2010,0,3
+Anthony Gardner,Hull City,2010,24,2
+Paul McShane,Hull City,2010,0,2
 Liam Cooper,Hull City,2010,2,2
 Steven Mouyokolo,Hull City,2010,21,1
-Kamil Zayatte,Hull City,2010,23,3
-Ibrahima Sonko,Hull City,2010,0,1
+Kamil Zayatte,Hull City,2010,23,2
+Ibrahima Sonko,Hull City,2010,0,0
 Steve Gardner,Hull City,2010,0,2
 Nathan Hanley,Hull City,2010,0,1
 Ian Ashbee,Hull City,2010,0,2
@@ -444,7 +444,7 @@ Mark Cullen,Hull City,2010,3,1
 Daniel Cousin,Hull City,2010,3,2
 Nicky Featherstone,Hull City,2010,0,2
 Jan Vennegoor of Hesselink,Hull City,2010,31,1
-Amr Zaki,Hull City,2010,0,1
+Amr Zaki,Hull City,2010,0,0
 Ryan Kendall,Hull City,2010,0,2
 Yann Ekra,Hull City,2010,0,2
 Tony Warner,Hull City,2010,0,2
@@ -456,9 +456,9 @@ Diego Cavalieri,Liverpool,2010,0,2
 José Reina,Liverpool,2010,38,5
 Charles Itandje,Liverpool,2010,0,3
 Martin Hansen,Liverpool,2010,0,3
-Péter Gulácsi,Liverpool,2010,0,3
+Péter Gulácsi,Liverpool,2010,0,2
 David Martin,Liverpool,2010,0,5
-Emiliano Insúa,Liverpool,2010,31,4
+Emiliano Insúa,Liverpool,2010,31,3
 Glen Johnson,Liverpool,2010,25,1
 Daniel Agger,Liverpool,2010,23,5
 Fábio Aurélio,Liverpool,2010,14,4
@@ -478,7 +478,7 @@ Nabil El Zhar,Liverpool,2010,3,4
 Damien Plessis,Liverpool,2010,0,3
 Ray Putterill,Liverpool,2010,0,3
 Sean Highdale,Liverpool,2010,0,3
-Zsolt Poloskei,Liverpool,2010,0,2
+Zsolt Poloskei,Liverpool,2010,0,0
 Steven Gerrard,Liverpool,2010,33,12
 Maxi Rodríguez,Liverpool,2010,0,0
 Albert Riera,Liverpool,2010,12,2
@@ -494,7 +494,7 @@ David Amoo,Liverpool,2010,0,3
 Gerardo Bruna,Liverpool,2010,0,3
 Andras Simon,Liverpool,2010,0,3
 Fernando Torres,Liverpool,2010,22,3
-Daniel Pacheco,Liverpool,2010,4,3
+Dani Pacheco,Liverpool,2010,4,3
 David N'Gog,Liverpool,2010,24,2
 Krisztián Németh,Liverpool,2010,0,3
 Nathan Eccleston,Liverpool,2010,1,2
@@ -503,7 +503,7 @@ Christopher Buchtmann,Liverpool,2010,0,1
 Andrey Voronin,Liverpool,2010,8,3
 Andrea Dossena,Liverpool,2010,2,2
 Ryan Crowther,Liverpool,2010,0,3
-Marton Fülöp,Manchester City,2010,13,1
+Marton Fülöp,Manchester City,2010,13,0
 Shay Given,Manchester City,2010,35,2
 Joe Hart,Manchester City,2010,0,4
 Stuart Taylor,Manchester City,2010,0,1
@@ -526,7 +526,7 @@ Dedryck Boyata,Manchester City,2010,3,1
 Ben Mee,Manchester City,2010,0,1
 Ryan McGivern,Manchester City,2010,0,3
 Paul Marshall,Manchester City,2010,0,2
-Patrick Vieira,Manchester City,2010,13,1
+Patrick Vieira,Manchester City,2010,13,0
 Stephen Ireland,Manchester City,2010,22,5
 Shaun Wright-Phillips,Manchester City,2010,30,6
 Adam Johnson,Manchester City,2010,16,1
@@ -557,7 +557,7 @@ Richard Dunne,Manchester City,2010,2,9
 Tal Ben Haim,Manchester City,2010,0,2
 Edwin van der Sar,Manchester United,2010,21,5
 Ben Foster,Manchester United,2010,9,5
-Tomasz Kuszczak,Manchester United,2010,8,4
+Tomasz Kuszczak,Manchester United,2010,8,3
 Ron-Robert Zieler,Manchester United,2010,0,2
 Tom Heaton,Manchester United,2010,0,5
 Ben Amos,Manchester United,2010,0,2
@@ -619,13 +619,13 @@ Hermann Hreidarsson,Portsmouth,2010,17,3
 Steve Finnan,Portsmouth,2010,21,1
 Anthony Vanden Borre,Portsmouth,2010,0,0
 Tal Ben Haim,Portsmouth,2010,0,1
-Nadir Belhadj,Portsmouth,2010,19,3
+Nadir Belhadj,Portsmouth,2010,19,2
 James Hurst,Portsmouth,2010,0,1
 Lennard Sowah,Portsmouth,2010,5,1
 Chris Clark,Portsmouth,2010,0,7
 Florent Cuvelier,Portsmouth,2010,0,1
 Aaron Mokoena,Portsmouth,2010,23,2
-Jamie O'Hara,Portsmouth,2010,2,2
+Jamie O'Hara,Portsmouth,2010,2,1
 Matt Ritchie,Portsmouth,2010,2,1
 Marc Wilson,Portsmouth,2010,28,3
 Hayden Mullins,Portsmouth,2010,18,2
@@ -641,16 +641,16 @@ Tom Kilbey,Portsmouth,2010,0,1
 Marlon Pack,Portsmouth,2010,0,1
 Paris Cowan-Hall,Portsmouth,2010,0,3
 Omar Koroma,Portsmouth,2010,0,2
-Frédéric Piquionne,Portsmouth,2010,34,1
+Frédéric Piquionne,Portsmouth,2010,34,0
 Danny Webber,Portsmouth,2010,17,1
 David Nugent,Portsmouth,2010,3,3
 Tommy Smith,Portsmouth,2010,16,1
-Aruna Dindane,Portsmouth,2010,19,1
+Aruna Dindane,Portsmouth,2010,19,0
 Kanu,Portsmouth,2010,23,4
 Danijel Subotic,Portsmouth,2010,0,3
 Gael N'Lundulu,Portsmouth,2010,0,1
 Razvan Cocis,Portsmouth,2010,0,1
-Quincy Owusu-Abeyie,Portsmouth,2010,10,2
+Quincy Owusu-Abeyie,Portsmouth,2010,10,1
 Dusko Tosic,Portsmouth,2010,0,0
 Antti Niemi,Portsmouth,2010,0,1
 Linvoy Primus,Portsmouth,2010,0,7
@@ -699,7 +699,7 @@ Tuncay Sanli,Stoke City,2010,30,1
 Louis Moult,Stoke City,2010,1,1
 Leon Cort,Stoke City,2010,0,2
 Richard Cresswell,Stoke City,2010,2,2
-Paul Gallagher,Stoke City,2010,1,5
+Paul Gallagher,Stoke City,2010,1,3
 Craig Gordon,Sunderland,2010,26,3
 Trevor Carson,Sunderland,2010,0,4
 Marton Fülöp,Sunderland,2010,13,3
@@ -707,8 +707,8 @@ Jean-Yves Mvoto,Sunderland,2010,0,3
 Nyron Nosworthy,Sunderland,2010,10,4
 Phil Bardsley,Sunderland,2010,26,3
 Michael Turner,Sunderland,2010,4,1
-John Mensah,Sunderland,2010,16,1
-Alan Hutton,Sunderland,2010,8,1
+John Mensah,Sunderland,2010,16,0
+Alan Hutton,Sunderland,2010,8,0
 Matthew Kilgallon,Sunderland,2010,7,1
 Paulo Da Silva,Sunderland,2010,16,1
 George McCartney,Sunderland,2010,25,7
@@ -737,7 +737,7 @@ David Healy,Sunderland,2010,3,2
 Roy O'Donovan,Sunderland,2010,0,3
 Martyn Waghorn,Sunderland,2010,0,3
 Jordan Cook,Sunderland,2010,0,2
-Benjani,Sunderland,2010,2,1
+Benjani,Sunderland,2010,2,0
 Ryan Noble,Sunderland,2010,0,1
 David Dowson,Sunderland,2010,0,3
 Russell Anderson,Sunderland,2010,0,3
@@ -767,9 +767,9 @@ Benoit Assou-Ekotto,Tottenham Hotspur,2010,30,4
 Steven Caulker,Tottenham Hotspur,2010,0,1
 Jonathan Woodgate,Tottenham Hotspur,2010,3,3
 Adam Smith,Tottenham Hotspur,2010,0,3
-Callum Butcher,Tottenham Hotspur,2010,0,2
+Calum Butcher,Tottenham Hotspur,2010,0,2
 Ryan Fredericks,Tottenham Hotspur,2010,0,1
-Adel Taarabt,Tottenham Hotspur,2010,0,4
+Adel Taarabt,Tottenham Hotspur,2010,0,3
 Sam Cox,Tottenham Hotspur,2010,0,1
 Tom Huddlestone,Tottenham Hotspur,2010,33,5
 Aaron Lennon,Tottenham Hotspur,2010,22,5
@@ -789,7 +789,7 @@ Dean Parrett,Tottenham Hotspur,2010,0,2
 Roman Pavlyuchenko,Tottenham Hotspur,2010,16,2
 Robbie Keane,Tottenham Hotspur,2010,20,8
 Peter Crouch,Tottenham Hotspur,2010,38,3
-Eidur Gudjohnsen,Tottenham Hotspur,2010,11,1
+Eidur Gudjohnsen,Tottenham Hotspur,2010,11,0
 Giovani dos Santos,Tottenham Hotspur,2010,1,2
 Jermain Defoe,Tottenham Hotspur,2010,34,7
 Harry Kane,Tottenham Hotspur,2010,0,1
@@ -801,17 +801,17 @@ Kevin-Prince Boateng,Tottenham Hotspur,2010,0,3
 Pascal Chimbonda,Tottenham Hotspur,2010,0,4
 Yuri,Tottenham Hotspur,2010,0,2
 Robert Green,West Ham United,2010,38,4
-Peter Kurucz,West Ham United,2010,1,2
+Peter Kurucz,West Ham United,2010,1,0
 Marek Stech,West Ham United,2010,0,4
 Jordan Spence,West Ham United,2010,1,2
-Davide Ferrari,West Ham United,2010,0,1
+Davide Ferrari,West Ham United,2010,0,0
 Danny Gabbidon,West Ham United,2010,10,5
 James Tomkins,West Ham United,2010,23,3
 Matt Upson,West Ham United,2010,33,4
 Julien Faubert,West Ham United,2010,33,3
 Jonathan Spector,West Ham United,2010,27,4
 Manuel da Costa,West Ham United,2010,15,1
-Hérita Ilunga,West Ham United,2010,16,2
+Hérita Ilunga,West Ham United,2010,16,1
 Fabio Daprelà,West Ham United,2010,7,1
 Matt Fry,West Ham United,2010,0,1
 Bondz N'Gala,West Ham United,2010,0,2
@@ -819,7 +819,7 @@ Kieron Dyer,West Ham United,2010,10,3
 Scott Parker,West Ham United,2010,31,3
 Jack Collison,West Ham United,2010,22,3
 Luis Boa Morte,West Ham United,2010,1,4
-Radoslav Kovac,West Ham United,2010,31,2
+Radoslav Kovac,West Ham United,2010,31,1
 Mark Noble,West Ham United,2010,27,5
 Valon Behrami,West Ham United,2010,27,2
 Junior Stanislas,West Ham United,2010,26,2
@@ -831,26 +831,26 @@ Cristian Montaño,West Ham United,2010,0,1
 Carlton Cole,West Ham United,2010,30,4
 Ilan Araujo,West Ham United,2010,11,1
 Guillermo Franco,West Ham United,2010,0,0
-Mido,West Ham United,2010,9,1
+Mido,West Ham United,2010,9,0
 Benni McCarthy,West Ham United,2010,14,1
 Freddie Sears,West Ham United,2010,1,3
 Frank Nouble,West Ham United,2010,8,1
 Zavon Hines,West Ham United,2010,13,2
 Alessandro Diamanti,West Ham United,2010,27,1
 Calum Davenport,West Ham United,2010,0,4
-Luis Jiménez,West Ham United,2010,11,2
+Luis Jiménez,West Ham United,2010,11,1
 Holmar Örn Eyjolfsson,West Ham United,2010,0,1
 Dean Ashton,West Ham United,2010,0,5
 Nigel Quashie,West Ham United,2010,0,4
 Daniel Emmanuel,West Ham United,2010,0,3
 James Collins,West Ham United,2010,3,5
 Savio Nsereko,West Ham United,2010,0,2
-Chris Kirkland,Wigan Athletic,2010,32,5
+Chris Kirkland,Wigan Athletic,2010,32,4
 Mike Pollitt,Wigan Athletic,2010,4,5
 Lee Nicholls,Wigan Athletic,2010,0,1
 Richard Kingson,Wigan Athletic,2010,0,2
 Vladimir Stojkovic,Wigan Athletic,2010,0,0
-Dariusz Adamczuk,Wigan Athletic,2010,0,5
+Dariusz Adamczuk,Wigan Athletic,2010,0,0
 Steve Gohouri,Wigan Athletic,2010,5,1
 Antonio Amaya,Wigan Athletic,2010,0,1
 Gary Caldwell,Wigan Athletic,2010,0,0
@@ -860,7 +860,7 @@ Titus Bramble,Wigan Athletic,2010,35,3
 Mario Melchiot,Wigan Athletic,2010,32,3
 Roman Golobart,Wigan Athletic,2010,0,1
 Jordan Mustoe,Wigan Athletic,2010,0,1
-Maynor Figueroa,Wigan Athletic,2010,35,4
+Maynor Figueroa,Wigan Athletic,2010,35,2
 Cho Won-Hee,Wigan Athletic,2010,4,2
 James McCarthy,Wigan Athletic,2010,20,1
 Hendry Thomas,Wigan Athletic,2010,31,1
@@ -877,13 +877,13 @@ Jonathon Routledge,Wigan Athletic,2010,0,2
 Joe Holt,Wigan Athletic,2010,0,2
 Victor Moses,Wigan Athletic,2010,14,1
 Callum McManaman,Wigan Athletic,2010,0,2
-Scott Sinclair,Wigan Athletic,2010,0,1
+Scott Sinclair,Wigan Athletic,2010,0,0
 Jason Scotland,Wigan Athletic,2010,32,1
 Marcelo Moreno,Wigan Athletic,2010,0,0
 Hugo Rodallega,Wigan Athletic,2010,38,2
 Rachid Bouaouzan,Wigan Athletic,2010,0,3
 Erik Edman,Wigan Athletic,2010,3,3
-Amr Zaki,Wigan Athletic,2010,0,3
+Amr Zaki,Wigan Athletic,2010,0,1
 Marlon King,Wigan Athletic,2010,3,3
 Michael Brown,Wigan Athletic,2010,2,3
 Wayne Hennessey,Wolverhampton Wanderers,2010,13,2
@@ -896,7 +896,7 @@ Jody Craddock,Wolverhampton Wanderers,2010,33,2
 Danny Batth,Wolverhampton Wanderers,2010,0,1
 Christophe Berra,Wolverhampton Wanderers,2010,32,1
 Daniel Jones,Wolverhampton Wanderers,2010,0,1
-Michael Mancienne,Wolverhampton Wanderers,2010,0,1
+Michael Mancienne,Wolverhampton Wanderers,2010,0,0
 Jason Shackell,Wolverhampton Wanderers,2010,0,1
 Ronald Zubar,Wolverhampton Wanderers,2010,23,1
 Matthew Hill,Wolverhampton Wanderers,2010,2,1
@@ -913,10 +913,10 @@ David Jones,Wolverhampton Wanderers,2010,20,1
 Greg Halford,Wolverhampton Wanderers,2010,15,1
 Matthew Jarvis,Wolverhampton Wanderers,2010,34,1
 Nenad Milijas,Wolverhampton Wanderers,2010,19,1
-Geoffrey Mujangi Bia,Wolverhampton Wanderers,2010,3,1
+Geoffrey Mujangi Bia,Wolverhampton Wanderers,2010,3,0
 George Friend,Wolverhampton Wanderers,2010,1,1
 Adlène Guédioura,Wolverhampton Wanderers,2010,14,1
-Segundo Castillo,Wolverhampton Wanderers,2010,8,1
+Segundo Castillo,Wolverhampton Wanderers,2010,8,0
 Kyle Bennett,Wolverhampton Wanderers,2010,0,1
 Nathaniel Mendez-Laing,Wolverhampton Wanderers,2010,0,1
 Sylvan Ebanks-Blake,Wolverhampton Wanderers,2010,23,1
@@ -928,8 +928,8 @@ Stefan Maierhofer,Wolverhampton Wanderers,2010,8,1
 Ashley Hemmings,Wolverhampton Wanderers,2010,0,1
 James Spray,Wolverhampton Wanderers,2010,0,1
 Mark Little,Wolverhampton Wanderers,2010,0,1
-Bence Szabó,Wolverhampton Wanderers,2010,0,2
-Nigel Quashie,Wolverhampton Wanderers,2010,0,2
+Bence Szabó,Wolverhampton Wanderers,2010,0,1
+Nigel Quashie,Wolverhampton Wanderers,2010,0,1
 Neill Collins,Wolverhampton Wanderers,2010,0,1
 Darren Ward,Wolverhampton Wanderers,2010,0,1
 Elliott Bennett,Wolverhampton Wanderers,2010,0,1

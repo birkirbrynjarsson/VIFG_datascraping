@@ -30,7 +30,7 @@ Jack Wilshere,Arsenal,2009,1,1
 Theo Walcott,Arsenal,2009,22,4
 Denilson,Arsenal,2009,37,3
 Aaron Ramsey,Arsenal,2009,9,1
-Alexandre Song,Arsenal,2009,31,4
+Alexandre Song,Arsenal,2009,31,3
 Francis Coquelin,Arsenal,2009,0,1
 Andrey Arshavin,Arsenal,2009,12,1
 Abou Diaby,Arsenal,2009,24,4
@@ -67,7 +67,7 @@ Luke Young,Aston Villa,2009,34,1
 Wilfred Bouma,Aston Villa,2009,0,4
 Martin Laursen,Aston Villa,2009,19,5
 Ciaran Clark,Aston Villa,2009,0,1
-Curtis Davies,Aston Villa,2009,35,2
+Curtis Davies,Aston Villa,2009,35,1
 Zat Knight,Aston Villa,2009,13,2
 Nicky Shorey,Aston Villa,2009,21,1
 Carlos Cuellar,Aston Villa,2009,28,1
@@ -78,7 +78,7 @@ Moustapha Salifou,Aston Villa,2009,0,2
 Steve Sidwell,Aston Villa,2009,16,1
 Gareth Barry,Aston Villa,2009,38,12
 Ashley Young,Aston Villa,2009,36,3
-James Milner,Aston Villa,2009,2,2
+James Milner,Aston Villa,2009,2,1
 Marc Albrighton,Aston Villa,2009,0,1
 Chris Herd,Aston Villa,2009,0,2
 Stiliyan Petrov,Aston Villa,2009,36,3
@@ -102,15 +102,15 @@ Mark Bunn,Blackburn Rovers,2009,0,1
 Jason Brown,Blackburn Rovers,2009,4,3
 Frank Fielding,Blackburn Rovers,2009,0,2
 Björn Bussmann,Blackburn Rovers,2009,0,1
-Zurab Khizanishvili,Blackburn Rovers,2009,5,4
-Gaël Givet,Blackburn Rovers,2009,14,1
+Zurab Khizanishvili,Blackburn Rovers,2009,5,3
+Gaël Givet,Blackburn Rovers,2009,14,0
 Jonathan Flynn,Blackburn Rovers,2009,0,2
 André Ooijer,Blackburn Rovers,2009,32,3
 Martin Olsson,Blackburn Rovers,2009,9,4
 Stephen Warnock,Blackburn Rovers,2009,37,3
 Christopher Samba,Blackburn Rovers,2009,35,3
 Ryan Nelsen,Blackburn Rovers,2009,35,5
-Danny Simpson,Blackburn Rovers,2009,0,1
+Danny Simpson,Blackburn Rovers,2009,0,0
 Gavin Gunning,Blackburn Rovers,2009,0,1
 Kerimoglou Tugay,Blackburn Rovers,2009,29,8
 Brett Emerton,Blackburn Rovers,2009,20,6
@@ -127,7 +127,7 @@ Bryan Hodge,Blackburn Rovers,2009,0,3
 Marcus Marshall,Blackburn Rovers,2009,0,1
 Alex Marrow,Blackburn Rovers,2009,0,1
 Andy Haworth,Blackburn Rovers,2009,0,1
-El Hadji Diouf,Blackburn Rovers,2009,14,2
+El Hadji Diouf,Blackburn Rovers,2009,14,1
 Roque Santa Cruz,Blackburn Rovers,2009,20,2
 Benni McCarthy,Blackburn Rovers,2009,28,3
 Paul Gallagher,Blackburn Rovers,2009,0,7
@@ -150,7 +150,6 @@ Grétar Steinsson,Bolton Wanderers,2009,37,2
 Nicky Hunt,Bolton Wanderers,2009,0,8
 Jlloyd Samuel,Bolton Wanderers,2009,38,2
 Gary Cahill,Bolton Wanderers,2009,33,2
-Sébastien Puygrenier,Bolton Wanderers,2009,7,1
 Danny Shittu,Bolton Wanderers,2009,10,1
 Chris Basham,Bolton Wanderers,2009,11,1
 Andy O'Brien,Bolton Wanderers,2009,34,2
@@ -166,9 +165,9 @@ Johan Elmander,Bolton Wanderers,2009,30,1
 Kevin Davies,Bolton Wanderers,2009,38,6
 Mustapha Riga,Bolton Wanderers,2009,17,1
 Ricardo Vaz Te,Bolton Wanderers,2009,2,6
-Ariza Makukula,Bolton Wanderers,2009,6,1
+Ariza Makukula,Bolton Wanderers,2009,6,0
 James Sinclair,Bolton Wanderers,2009,0,4
-Zoltán Harsányi,Bolton Wanderers,2009,0,3
+Zoltán Harsányi,Bolton Wanderers,2009,0,2
 Tope Obadeyi,Bolton Wanderers,2009,3,1
 Jaroslaw Fojut,Bolton Wanderers,2009,0,4
 Kevin Nolan,Bolton Wanderers,2009,20,8
@@ -197,7 +196,7 @@ Slobodan Rajkovic,Chelsea,2009,0,4
 Jack Cork,Chelsea,2009,0,4
 James Simmonds,Chelsea,2009,0,3
 Thomas Taiwo,Chelsea,2009,0,1
-Fábio Ferreira,Chelsea,2009,0,1
+Fabio Ferreira,Chelsea,2009,0,1
 Sergio Tejera,Chelsea,2009,0,1
 Michael Essien,Chelsea,2009,11,4
 Frank Lampard,Chelsea,2009,37,8
@@ -206,7 +205,7 @@ John Obi Mikel,Chelsea,2009,34,3
 Michael Ballack,Chelsea,2009,29,3
 Florent Malouda,Chelsea,2009,31,2
 Scott Sinclair,Chelsea,2009,2,4
-Ricardo Quaresma,Chelsea,2009,4,1
+Ricardo Quaresma,Chelsea,2009,4,0
 Deco,Chelsea,2009,24,1
 Mineiro,Chelsea,2009,1,1
 Gaël Kakuta,Chelsea,2009,0,1
@@ -229,7 +228,7 @@ Wayne Bridge,Chelsea,2009,6,6
 Shaun Wright-Phillips,Chelsea,2009,1,4
 Carlo Nash,Everton,2009,0,1
 Iain Turner,Everton,2009,0,7
-Tim Howard,Everton,2009,38,4
+Tim Howard,Everton,2009,38,3
 John Ruddy,Everton,2009,0,4
 Tony Hibbert,Everton,2009,17,9
 Leighton Baines,Everton,2009,31,2
@@ -244,18 +243,18 @@ Joseph Yobo,Everton,2009,27,7
 Tom McCready,Everton,2009,0,1
 Andy van der Meyde,Everton,2009,2,4
 Jack Rodwell,Everton,2009,19,2
-Segundo Castillo,Everton,2009,9,1
-Mikel Arteta,Everton,2009,26,5
+Segundo Castillo,Everton,2009,9,0
+Mikel Arteta,Everton,2009,26,4
 Tim Cahill,Everton,2009,30,5
 Phil Neville,Everton,2009,37,4
 Dan Gosling,Everton,2009,11,2
-Steven Pienaar,Everton,2009,28,2
+Steven Pienaar,Everton,2009,28,1
 Leon Osman,Everton,2009,34,9
 Marouane Fellaini,Everton,2009,30,1
 John Kissock,Everton,2009,0,2
 James Wallace,Everton,2009,0,1
 Louis Saha,Everton,2009,0,1
-Jô,Everton,2009,9,1
+Jô,Everton,2009,9,0
 James Vaughan,Everton,2009,13,5
 Yakubu,Everton,2009,14,2
 Lukas Jutkiewicz,Everton,2009,1,2
@@ -268,7 +267,7 @@ Mark Schwarzer,Fulham,2009,38,1
 David Stockdale,Fulham,2009,0,1
 Pascal Zuberbühler,Fulham,2009,0,1
 Elliot Omozusi,Fulham,2009,0,3
-Moritz Volz,Fulham,2009,0,7
+Moritz Volz,Fulham,2009,0,6
 Paul Konchesky,Fulham,2009,36,2
 John Pantsil,Fulham,2009,37,1
 Brede Hangeland,Fulham,2009,37,2
@@ -286,15 +285,15 @@ Seol Ki-Hyeon,Fulham,2009,4,2
 Zoltán Gera,Fulham,2009,32,1
 Danny Murphy,Fulham,2009,38,2
 Andranik Teymourian,Fulham,2009,1,1
-Olivier Dacourt,Fulham,2009,9,1
-Julian Gray,Fulham,2009,0,2
+Olivier Dacourt,Fulham,2009,9,0
+Julian Gray,Fulham,2009,0,1
 Dickson Etuhu,Fulham,2009,0,1
 Robert Milsom,Fulham,2009,1,4
 Simon Davies,Fulham,2009,33,3
 Wayne Brown,Fulham,2009,1,2
 Richard Peniket,Fulham,2009,0,1
 Stefan Payne,Fulham,2009,0,1
-Giles Barnes,Fulham,2009,0,1
+Giles Barnes,Fulham,2009,0,0
 Andrew Johnson,Fulham,2009,31,1
 Erik Nevland,Fulham,2009,21,2
 Diomansy Kamara,Fulham,2009,12,2
@@ -317,11 +316,11 @@ Mark Oxley,Hull City,2009,0,1
 Tony Warner,Hull City,2009,0,1
 Thomas Woodhead,Hull City,2009,0,1
 Andy Dawson,Hull City,2009,25,1
-Anthony Gardner,Hull City,2009,1,2
+Anthony Gardner,Hull City,2009,1,1
 Michael Turner,Hull City,2009,38,1
 Liam Cooper,Hull City,2009,0,1
 Sam Ricketts,Hull City,2009,29,1
-Kamil Zayatte,Hull City,2009,18,2
+Kamil Zayatte,Hull City,2009,18,1
 Matt Plummer,Hull City,2009,0,1
 Joe Lamplough,Hull City,2009,0,1
 Steve Gardner,Hull City,2009,0,1
@@ -348,25 +347,25 @@ Caleb Folan,Hull City,2009,15,1
 Michael Bridges,Hull City,2009,0,1
 Daniel Cousin,Hull City,2009,27,1
 Nicky Featherstone,Hull City,2009,0,1
-Manucho,Hull City,2009,1,1
+Manucho,Hull City,2009,1,0
 Bill Law,Hull City,2009,0,1
 Ryan Kendall,Hull City,2009,0,1
 Yann Ekra,Hull City,2009,0,1
 Wayne Brown,Hull City,2009,1,1
 Nick McNamara,Hull City,2009,0,1
 Stelios Giannakopoulos,Hull City,2009,2,1
-Marlon King,Hull City,2009,0,2
-Paul McShane,Hull City,2009,3,2
+Marlon King,Hull City,2009,0,1
+Paul McShane,Hull City,2009,3,1
 Hakan Duyan,Liverpool,2009,0,1
 Diego Cavalieri,Liverpool,2009,0,1
 José Reina,Liverpool,2009,38,4
 Charles Itandje,Liverpool,2009,0,2
 Nikolay Mihaylov,Liverpool,2009,0,2
 Martin Hansen,Liverpool,2009,0,2
-Péter Gulácsi,Liverpool,2009,0,2
+Péter Gulácsi,Liverpool,2009,0,1
 David Martin,Liverpool,2009,0,4
 Ronald Huth,Liverpool,2009,0,3
-Emiliano Insúa,Liverpool,2009,10,3
+Emiliano Insúa,Liverpool,2009,10,2
 Sami Hyypiä,Liverpool,2009,16,10
 Daniel Agger,Liverpool,2009,18,4
 Fábio Aurélio,Liverpool,2009,24,3
@@ -404,10 +403,10 @@ David Amoo,Liverpool,2009,0,2
 Gerardo Bruna,Liverpool,2009,0,2
 Andras Simon,Liverpool,2009,0,2
 Craig Lindfield,Liverpool,2009,0,3
-Zsolt Poloskei,Liverpool,2009,0,1
+Zsolt Poloskei,Liverpool,2009,0,0
 Fernando Torres,Liverpool,2009,24,2
 Andrey Voronin,Liverpool,2009,0,2
-Daniel Pacheco,Liverpool,2009,0,2
+Dani Pacheco,Liverpool,2009,0,2
 David N'Gog,Liverpool,2009,14,1
 Krisztián Németh,Liverpool,2009,0,2
 Nathan Eccleston,Liverpool,2009,0,1
@@ -459,14 +458,14 @@ Jô,Manchester City,2009,9,1
 Daniel Sturridge,Manchester City,2009,16,3
 Craig Bellamy,Manchester City,2009,16,1
 Sam Williamson,Manchester City,2009,0,2
-Nery Castillo,Manchester City,2009,0,3
+Nery Castillo,Manchester City,2009,0,1
 Suree Sukha,Manchester City,2009,0,2
 Teerasil Dangda,Manchester City,2009,0,2
 Vedran Corluka,Manchester City,2009,3,2
 Rolando Bianchi,Manchester City,2009,0,2
 Edwin van der Sar,Manchester United,2009,33,4
 Ben Foster,Manchester United,2009,2,4
-Tomasz Kuszczak,Manchester United,2009,4,3
+Tomasz Kuszczak,Manchester United,2009,4,2
 Ron-Robert Zieler,Manchester United,2009,0,1
 Tom Heaton,Manchester United,2009,0,4
 Ben Amos,Manchester United,2009,0,1
@@ -547,7 +546,7 @@ Mido,Middlesbrough,2009,13,2
 Jérémie Aliadière,Middlesbrough,2009,29,2
 Marvin Emnes,Middlesbrough,2009,15,1
 Afonso Alves,Middlesbrough,2009,31,2
-Marlon King,Middlesbrough,2009,0,1
+Marlon King,Middlesbrough,2009,0,0
 Tuncay Sanli,Middlesbrough,2009,33,2
 Tom Craddock,Middlesbrough,2009,0,4
 Tim Krul,Newcastle United,2009,0,3
@@ -567,7 +566,7 @@ Kevin Nolan,Newcastle United,2009,20,1
 Joey Barton,Newcastle United,2009,9,2
 Danny Guthrie,Newcastle United,2009,24,1
 Damien Duff,Newcastle United,2009,30,3
-Ignacio González,Newcastle United,2009,2,1
+Ignacio González,Newcastle United,2009,2,0
 Alan Smith,Newcastle United,2009,6,2
 Jonás Gutiérrez,Newcastle United,2009,30,1
 Geremi,Newcastle United,2009,15,2
@@ -598,28 +597,28 @@ Andre Blackman,Portsmouth,2009,0,1
 Linvoy Primus,Portsmouth,2009,1,6
 Younes Kaboul,Portsmouth,2009,20,1
 Lauren,Portsmouth,2009,0,3
-Glen Johnson,Portsmouth,2009,29,3
+Glen Johnson,Portsmouth,2009,29,2
 Hermann Hreidarsson,Portsmouth,2009,23,2
 Sylvain Distin,Portsmouth,2009,38,2
 Noé Pamarot,Portsmouth,2009,15,4
 Martin Cranie,Portsmouth,2009,0,2
 Sol Campbell,Portsmouth,2009,32,3
-Armand Traore,Portsmouth,2009,0,1
+Armand Traore,Portsmouth,2009,0,0
 Djimi Traore,Portsmouth,2009,0,3
-Nadir Belhadj,Portsmouth,2009,16,2
+Nadir Belhadj,Portsmouth,2009,16,1
 Chris Clark,Portsmouth,2009,0,6
 Aaron Mokoena,Portsmouth,2009,18,1
 Marc Wilson,Portsmouth,2009,3,2
 Hayden Mullins,Portsmouth,2009,17,1
 Papa Bouba Diop,Portsmouth,2009,16,2
 Jerome Thomas,Portsmouth,2009,3,1
-Jermaine Pennant,Portsmouth,2009,3,1
+Jermaine Pennant,Portsmouth,2009,3,0
 John Utaka,Portsmouth,2009,18,2
-Arnold Mvuemba,Portsmouth,2009,6,3
+Arnold Mvuemba,Portsmouth,2009,6,2
 Niko Kranjcar,Portsmouth,2009,21,3
 Richard Hughes,Portsmouth,2009,20,6
 Glen Little,Portsmouth,2009,5,1
-Pelé,Portsmouth,2009,0,1
+Pelé,Portsmouth,2009,0,0
 Sean Davis,Portsmouth,2009,32,4
 Angelos Basinas,Portsmouth,2009,3,1
 Omar Koroma,Portsmouth,2009,0,1
@@ -629,13 +628,13 @@ Ryan Gazet Du Chattelier,Portsmouth,2009,0,2
 Peter Crouch,Portsmouth,2009,38,1
 David Nugent,Portsmouth,2009,16,2
 Kanu,Portsmouth,2009,17,3
-Theofanis Gekas,Portsmouth,2009,1,1
+Theofanis Gekas,Portsmouth,2009,1,0
 Danijel Subotic,Portsmouth,2009,0,2
 Khaleem Hyland,Portsmouth,2009,0,1
 Richard Duffy,Portsmouth,2009,0,6
-Jermain Defoe,Portsmouth,2009,19,3
+Jermain Defoe,Portsmouth,2009,19,2
 Lass Diarra,Portsmouth,2009,12,2
-Ben Sahar,Portsmouth,2009,0,2
+Ben Sahar,Portsmouth,2009,0,1
 Nick Jordan,Portsmouth,2009,0,3
 Jean-Francois Christophe,Portsmouth,2009,0,2
 Steve Simonsen,Stoke City,2009,5,1
@@ -648,7 +647,7 @@ Leon Cort,Stoke City,2009,11,1
 Ibrahima Sonko,Stoke City,2009,14,1
 Ryan Shawcross,Stoke City,2009,29,1
 Andrew Davies,Stoke City,2009,2,1
-Stephen Kelly,Stoke City,2009,6,1
+Stephen Kelly,Stoke City,2009,6,0
 Abdoulaye Faye,Stoke City,2009,36,1
 Andy Wilkinson,Stoke City,2009,22,1
 Ryan Shotton,Stoke City,2009,0,1
@@ -670,8 +669,8 @@ James Beattie,Stoke City,2009,16,1
 Ricardo Fuller,Stoke City,2009,34,1
 Mamady Sidibe,Stoke City,2009,22,1
 Dave Kitson,Stoke City,2009,16,1
-Paul Gallagher,Stoke City,2009,0,3
-Henri Camara,Stoke City,2009,17,1
+Paul Gallagher,Stoke City,2009,0,2
+Henri Camara,Stoke City,2009,17,0
 Vincent Pericard,Stoke City,2009,4,1
 Demar Phillips,Stoke City,2009,0,1
 Lewis Buxton,Stoke City,2009,0,1
@@ -686,9 +685,9 @@ Nick Colgan,Sunderland,2009,0,1
 Jean-Yves Mvoto,Sunderland,2009,0,2
 Nyron Nosworthy,Sunderland,2009,16,3
 Phil Bardsley,Sunderland,2009,28,2
-Tal Ben Haim,Sunderland,2009,9,1
+Tal Ben Haim,Sunderland,2009,9,0
 Danny Collins,Sunderland,2009,35,3
-Calum Davenport,Sunderland,2009,7,1
+Calum Davenport,Sunderland,2009,7,0
 George McCartney,Sunderland,2009,16,6
 Russell Anderson,Sunderland,2009,0,2
 Anton Ferdinand,Sunderland,2009,0,1
@@ -709,7 +708,7 @@ Grant Leadbitter,Sunderland,2009,23,3
 Dwight Yorke,Sunderland,2009,7,2
 Andy Reid,Sunderland,2009,32,2
 Nathan Luscombe,Sunderland,2009,0,1
-Djibril Cissé,Sunderland,2009,35,1
+Djibril Cissé,Sunderland,2009,35,0
 Daryl Murphy,Sunderland,2009,23,3
 Michael Chopra,Sunderland,2009,6,2
 Kenwyne Jones,Sunderland,2009,29,2
@@ -751,9 +750,9 @@ Ricardo Rocha,Tottenham Hotspur,2009,0,3
 Troy Archibald-Henville,Tottenham Hotspur,2009,0,2
 Jonathan Woodgate,Tottenham Hotspur,2009,34,2
 Adam Smith,Tottenham Hotspur,2009,0,2
-Callum Butcher,Tottenham Hotspur,2009,0,1
+Calum Butcher,Tottenham Hotspur,2009,0,1
 Kyle Fraser-Allen,Tottenham Hotspur,2009,0,1
-Adel Taarabt,Tottenham Hotspur,2009,1,3
+Adel Taarabt,Tottenham Hotspur,2009,1,2
 Didier Zokora,Tottenham Hotspur,2009,29,3
 Tom Huddlestone,Tottenham Hotspur,2009,22,4
 Aaron Lennon,Tottenham Hotspur,2009,35,4
@@ -775,7 +774,7 @@ Darren Bent,Tottenham Hotspur,2009,33,2
 Robbie Keane,Tottenham Hotspur,2009,19,7
 Giovani dos Santos,Tottenham Hotspur,2009,6,1
 Jermain Defoe,Tottenham Hotspur,2009,19,6
-Fraizer Campbell,Tottenham Hotspur,2009,1,1
+Fraizer Campbell,Tottenham Hotspur,2009,1,0
 Paul-José M'Poku,Tottenham Hotspur,2009,0,1
 Tomas Pekhart,Tottenham Hotspur,2009,0,3
 Jonathan Obika,Tottenham Hotspur,2009,0,1
@@ -802,7 +801,7 @@ Abdoulaye Méité,West Bromwich Albion,2009,18,1
 Shelton Martis,West Bromwich Albion,2009,7,1
 Leon Barnett,West Bromwich Albion,2009,11,1
 Jared Hodgkiss,West Bromwich Albion,2009,0,2
-Ryan Donk,West Bromwich Albion,2009,16,1
+Ryan Donk,West Bromwich Albion,2009,16,0
 Paul Downing,West Bromwich Albion,2009,0,1
 Joss Labadie,West Bromwich Albion,2009,0,1
 James Morrison,West Bromwich Albion,2009,30,1
@@ -812,30 +811,30 @@ Chris Brunt,West Bromwich Albion,2009,34,1
 Kim Do-Heon,West Bromwich Albion,2009,16,1
 Graham Dorrans,West Bromwich Albion,2009,8,1
 Filipe Teixeira,West Bromwich Albion,2009,10,1
-Juan Carlos Menseguéz,West Bromwich Albion,2009,7,1
+Juan Carlos Menseguéz,West Bromwich Albion,2009,7,0
 Borja Valero,West Bromwich Albion,2009,30,1
 David Worrall,West Bromwich Albion,2009,0,1
-Youssouf Mulumbu,West Bromwich Albion,2009,6,1
+Youssouf Mulumbu,West Bromwich Albion,2009,6,0
 Romaine Sawyers,West Bromwich Albion,2009,0,1
 Ishmael Miller,West Bromwich Albion,2009,15,1
 Craig Beattie,West Bromwich Albion,2009,7,1
 Luke Moore,West Bromwich Albion,2009,21,1
-Jay Simpson,West Bromwich Albion,2009,0,1
-Marc-Antoine Fortuné,West Bromwich Albion,2009,17,1
+Jay Simpson,West Bromwich Albion,2009,0,0
+Marc-Antoine Fortuné,West Bromwich Albion,2009,17,0
 Michael Nardiello,West Bromwich Albion,2009,0,1
 Chris Wood,West Bromwich Albion,2009,2,1
 Roman Bednar,West Bromwich Albion,2009,25,1
 Ibrahim Sissoko,West Bromwich Albion,2009,0,1
 Sherjill MacDonald,West Bromwich Albion,2009,5,4
 Bartosz Slusarski,West Bromwich Albion,2009,0,1
-Michal Danek,West Bromwich Albion,2009,0,2
+Michal Danek,West Bromwich Albion,2009,0,1
 Robert Green,West Ham United,2009,38,3
-Jan Lastuvka,West Ham United,2009,0,1
-Peter Kurucz,West Ham United,2009,0,1
+Jan Lastuvka,West Ham United,2009,0,0
+Peter Kurucz,West Ham United,2009,0,0
 Marek Stech,West Ham United,2009,0,3
 Jordan Spence,West Ham United,2009,0,1
-Radoslav Kovac,West Ham United,2009,9,1
-Hérita Ilunga,West Ham United,2009,35,1
+Radoslav Kovac,West Ham United,2009,9,0
+Hérita Ilunga,West Ham United,2009,35,0
 Lucas Neill,West Ham United,2009,34,3
 Danny Gabbidon,West Ham United,2009,0,4
 James Tomkins,West Ham United,2009,12,2
@@ -858,7 +857,7 @@ Junior Stanislas,West Ham United,2009,9,1
 Nigel Quashie,West Ham United,2009,0,3
 Lee Bowyer,West Ham United,2009,6,4
 Josh Payne,West Ham United,2009,2,1
-Bálint Bajner,West Ham United,2009,0,1
+Bálint Bajner,West Ham United,2009,0,0
 Dean Ashton,West Ham United,2009,4,4
 Carlton Cole,West Ham United,2009,27,3
 Savio Nsereko,West Ham United,2009,10,1
@@ -874,23 +873,23 @@ Joe Widdowson,West Ham United,2009,0,1
 Jimmy Walker,West Ham United,2009,0,4
 George McCartney,West Ham United,2009,16,3
 Anton Ferdinand,West Ham United,2009,0,5
-Chris Kirkland,Wigan Athletic,2009,32,4
+Chris Kirkland,Wigan Athletic,2009,32,3
 Mike Pollitt,Wigan Athletic,2009,3,4
 Richard Kingson,Wigan Athletic,2009,4,1
-Dariusz Adamczuk,Wigan Athletic,2009,0,4
+Dariusz Adamczuk,Wigan Athletic,2009,0,0
 Erik Edman,Wigan Athletic,2009,2,2
 Paul Scharner,Wigan Athletic,2009,29,4
 Emmerson Boyce,Wigan Athletic,2009,27,3
 Titus Bramble,Wigan Athletic,2009,35,2
 Mario Melchiot,Wigan Athletic,2009,34,2
-Maynor Figueroa,Wigan Athletic,2009,19,3
+Maynor Figueroa,Wigan Athletic,2009,19,1
 Cho Won-Hee,Wigan Athletic,2009,1,1
 Craig Mahon,Wigan Athletic,2009,0,1
 Lee Cattermole,Wigan Athletic,2009,33,1
 Ben Watson,Wigan Athletic,2009,10,1
 Charles N'Zogbia,Wigan Athletic,2009,18,1
 Michael Brown,Wigan Athletic,2009,25,2
-Antonio Valencia,Wigan Athletic,2009,31,3
+Antonio Valencia,Wigan Athletic,2009,31,2
 Jason Koumas,Wigan Athletic,2009,16,2
 Tomasz Cywka,Wigan Athletic,2009,0,3
 Olivier Kapo,Wigan Athletic,2009,19,1
@@ -899,8 +898,8 @@ Tomasz Kupisz,Wigan Athletic,2009,0,3
 Jonathon Routledge,Wigan Athletic,2009,1,1
 Joe Holt,Wigan Athletic,2009,0,1
 Antoine Sibierski,Wigan Athletic,2009,3,2
-Mido,Wigan Athletic,2009,13,1
-Amr Zaki,Wigan Athletic,2009,29,1
+Mido,Wigan Athletic,2009,13,0
+Amr Zaki,Wigan Athletic,2009,29,0
 Callum McManaman,Wigan Athletic,2009,1,1
 Hugo Rodallega,Wigan Athletic,2009,15,1
 Rachid Bouaouzan,Wigan Athletic,2009,0,2
@@ -912,4 +911,4 @@ Emile Heskey,Wigan Athletic,2009,20,3
 Kevin Kilbane,Wigan Athletic,2009,10,3
 Luke Ashworth,Wigan Athletic,2009,0,2
 Lewis Montrose,Wigan Athletic,2009,0,3
-Carlo Nash,Wigan Athletic,2009,0,3
+Carlo Nash,Wigan Athletic,2009,0,2
