@@ -38,13 +38,19 @@ epldata %>% filter(Season >= 2006) %>%
 
 epldata %>% # filter(Season >= 2006) %>% 
   ggplot(aes(Pos, MeanAge)) + 
-    geom_point(aes(color=AgePos)) +
+    #theme_economist() +
+    ggtitle("Premier League, 1998 - 2017", "Team age compared to resulting league position") +
+    xlab("League position") +
+    ylab("Mean seasons at club\n(Team age)") +
+    geom_point() +
     facet_wrap(~Season) +
     # facet_wrap(~Team) +
     geom_smooth(method=lm) +
     # scale_y_continuous(breaks = 10:15)
-    scale_y_continuous(lim=c(0,8)) +
-    scale_x_reverse( lim=c(20,0))
+    scale_x_reverse( lim=c(20,1), breaks=c(20, 15, 10, 5, 1)) +
+    scale_y_continuous(breaks = c(1, 2, 3, 4, 5, 6, 7, 8))
+
+
 corData <- epldata %>% filter(Season >= 2000)
 cor(corData$Pos, corData$MeanAge)
 
@@ -57,7 +63,7 @@ epldata %>% filter(Team == "Manchester United") %>%
 epldata %>% #filter(Season >= 2006) %>%
   ggplot(aes(group=AgePos, Season, Pos)) +
     theme_economist() +
-    ggtitle("Premier League 1998 - 2017\nThe 3 most and least experienced teams", "Measured as the mean value of seasons at the club between active squad member.") + 
+    ggtitle("Premier League 1998 - 2017\nThe 3 most and least experienced teams", "Measured as the mean value of seasons at the club amongst the most active squad players") + 
     ylab("League position") +
     xlab("Season") +
     #geom_line(data = epldata %>% filter(AgePos > 1, AgePos < 20), colour = 'gray') +
@@ -73,13 +79,15 @@ epldata %>% #filter(Season >= 2006) %>%
     geom_line(data = epldata %>% filter(AgePos == 1), color = '#014386', size = 1.2) +
     geom_line(data = epldata %>% filter(AgePos == 20), color = '#861101', size = 1.2) +
     geom_point(data = epldata %>% filter(AgePos == 1, Pos >= 18), color = '#014386', size = 4) +  
-    geom_point(data = epldata %>% filter(AgePos >= 1, AgePos <= 3, Pos <= 3), color = '#014386', size = 2.2) +
+    geom_point(data = epldata %>% filter(AgePos >= 1, AgePos <= 3, Pos <= 4), color = '#014386', size = 2.2) +
     geom_point(data = epldata %>% filter(AgePos >= 1, AgePos <= 3, Pos >= 18), color = '#014386', size = 4) +
     geom_point(data = epldata %>% filter(AgePos >= 18, AgePos <= 20, Pos >= 18), color = '#861101', size = 2.2) +
     geom_point(data = epldata %>% filter(Pos <= 3, AgePos >= 18), color = '#861101', size = 4) +
-    geom_label_repel(aes(Season, Pos, label = ifelse((Pos == 18 & AgePos <= 3), paste(Team,", Age:",MeanAge),'')), nudge_y = 4, box.padding = 0.5, point.padding = 1,segment.color = 'grey50') +
-    geom_label_repel(aes(Season, Pos, label = ifelse((Pos == 19 & AgePos <= 3), paste(Team,", Age:",MeanAge),'')), nudge_y = 3, box.padding = 0.5, point.padding = 1,segment.color = 'grey50') +
-    geom_label_repel(aes(Season, Pos, label = ifelse((Pos <= 3 & AgePos >= 18), paste(Team,", Age:",MeanAge),'')), nudge_y = -5,box.padding = 0.5, point.padding = 1,segment.color = 'grey50') +
+    geom_label_repel(aes(Season, Pos, label = ifelse((Pos == 18 & AgePos <= 3), paste(Team,",",MeanAge,"seasons"),'')), nudge_y = 3.5, box.padding = 0.5, point.padding = 1,segment.color = 'grey50') +
+    geom_label_repel(aes(Season, Pos, label = ifelse((Pos == 19 & AgePos <= 3), paste(Team,",",MeanAge,"seasons"),'')), nudge_y = 3, box.padding = 0.5, point.padding = 1,segment.color = 'grey50') +
+    geom_label_repel(aes(Season, Pos, label = ifelse((Pos <= 3 & AgePos >= 18), paste(Team,",",MeanAge,"seasons"),'')), nudge_y = -5.5,box.padding = 0.5, point.padding = 1,segment.color = 'grey50') +
+    geom_label_repel(aes(Season, Pos, label = ifelse((Pos > 10 & AgePos == 1), paste(Team,",",MeanAge,"seasons"),'')), nudge_y = 2, nudge_x = -1, box.padding = 0.5, point.padding = 1,segment.color = 'grey50') +
+    geom_label_repel(aes(Season, Pos, label = ifelse((Pos == 10 & AgePos == 20), paste(Team,",",MeanAge,"seasons"),'')), nudge_y = 2, nudge_x = -1, box.padding = 0.5, point.padding = 1,segment.color = 'grey50') +
     scale_y_reverse( lim=c(20,1), breaks=c(20, 19, 18, 15, 10, 5, 4, 3, 2, 1)) +
     scale_x_continuous(breaks=c(1998,2000,2002,2004,2006,2008,2010,2012,2014,2016))
 
@@ -136,27 +144,30 @@ epldata %>%
 epldata %>% #filter(Season >= 1998) %>%
   ggplot(aes(Pos, MeanAge, label=Team)) +
   theme_economist() +
-  #ggtitle("Premier League, 1998 - 2017") + 
-  ylab("Mean squad togetherness age") +
+  ggtitle("Premier League, 1998 - 2017\nTeam experience compared to league position", "Experience measured as the mean value of seasons at the club amongst the most active squad players (mean player stay).") +
+  ylab("Mean player stay in seasons") +
   xlab("League position") +
-  scale_color_solarized() +
   geom_point(color = 'darkgray') +
-  #geom_point(data = epldata %>% filter(Team == "Liverpool"), aes(), color = 'red', size=2) +
   #geom_point(data = epldata %>% filter(Team == "Manchester United"), aes(), color = 'darkred', size=2) +
   #geom_point(data = epldata %>% filter(Team == "Arsenal"), aes(), color = 'orange', size=2) +
   #geom_point(data = epldata %>% filter(Team == "Chelsea"), aes(), color = 'blue', size=2) +
   #geom_point(data = epldata %>% filter(Team == "Manchester City"), aes(), color = 'lightblue', size=2) +
-  geom_boxplot(aes(group=Pos), alpha=0.7) +
+  geom_boxplot(aes(group=Pos), alpha=0.3) +
+  geom_point(data = epldata %>% filter(FirstSeason == 1), color = '#861101', size=2) +
   # geom_tufteboxplot(aes(group=Pos)) +
-  scale_x_reverse( lim=c(21,0), breaks=c(20, 15, 10, 5, 4, 3, 2, 1)) +
+  scale_x_reverse( lim=c(21,0), breaks=c(20, 19, 18, 15, 10, 5, 4, 3, 2, 1)) +
   scale_y_continuous(breaks = c(1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0)) +
-  geom_smooth(color = 'lightblue', alpha = 0.2) +
+  geom_smooth(color = '#014386', alpha = 0.4) +
   # geom_text(aes(label=ifelse(MeanAge > 7,as.character(Team),'')),hjust=0, vjust=0) +
   geom_point(data = epldata %>% filter(Pos == 1, MeanAge > 7), aes(label = Team), size = 3) +
   geom_label_repel(aes(Pos, MeanAge, label = ifelse((MeanAge > 7 & Pos == 1), paste(Team,",",Season),'')), box.padding = 0.35, point.padding = 0.5,segment.color = 'grey50') +
   geom_point(data = epldata %>% filter(Pos == 1, MeanAge < 2), aes(), size = 3) +
   geom_label_repel(aes(Pos, MeanAge, label = ifelse((MeanAge < 2 & Pos == 1), paste(Team,",",Season),'')), box.padding = 0.35, point.padding = 0.5,segment.color = 'grey50') +
   geom_point(data = epldata %>% filter(MeanAge > 5, Pos == 19), aes(), size = 3) +
-  geom_label_repel(aes(Pos, MeanAge, label = ifelse((MeanAge > 5 & Pos == 19), paste(Team,",",Season),'')), box.padding = 0.35, point.padding = 0.5,segment.color = 'grey50')
+  geom_label_repel(aes(Pos, MeanAge, label = ifelse((MeanAge > 5 & Pos == 19), paste(Team,",",Season),'')), nudge_x = 1, box.padding = 0.35, point.padding = 0.5,segment.color = 'grey50') +
+  geom_point(data = epldata %>% filter(FirstSeason == 1, Pos <= 5), color = '#861101', size=3) +
+  geom_label_repel(aes(Pos, MeanAge, label = ifelse((FirstSeason == 1 & Pos == 5), paste(Team,",",Season),'')), box.padding = 0.35, point.padding = 0.5,segment.color = 'grey50') +
+  geom_point(data = epldata %>% filter(FirstSeason == 1, MeanAge > 3), color = '#861101', size=3) +
+  geom_label_repel(aes(Pos, MeanAge, label = ifelse((FirstSeason == 1 & MeanAge > 3), paste(Team,",",Season),'')), nudge_y = 3, nudge_x = -1, box.padding = 0.35, point.padding = 0.5,segment.color = 'grey50')
   # coord_flip()
 
